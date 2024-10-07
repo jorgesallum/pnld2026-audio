@@ -1,51 +1,18 @@
 [Página 1]
-1ª Edição
 
-Rio de janeiro 2024
+O PANDEIRO
 
-![1](./img/page_1-01.jpg)
+DE ALICE PASSOS
+
+COM ILUSTRAÇÕES DE LENA E MOISES CELEGATTI
+
+
+
+
 [Página 2]
-copyright Acorde Produções Musicais LTDA
-edição Paulo Almeida e Janaína Marquesini
-coedição Fábia Alvim
-revisão Fábia Alvim
-capa e projeto gráfico Cynthia Cruttenden
-Grafia atualizada segundo o Acordo Ortográfico da Língua
-Portuguesa de 1990, em vigor no Brasil desde 2009.
-Dados Internacionais de Catalogação na Publicação (CIP)
-(Câmara Brasileira do Livro, SP, Brasil)
-Passos, Alice
-O pandeiro. Alice Passos; ilustração Lena Celegatti;
-Moises Celegatti. 1. ed. São Paulo: Acorde Produções
-Musicais LTDA., 2024.
-		
-978-65-998890-0-4 (Livro do Estudante Impresso)
-		
-978-65-998890-2-8 (Livro do Estudante Digital)
-		
-978-65-998890-1-1 (Livro do Professor Digital)
-		
-1. Literatura infantojuvenil I. Guazzelli, Eloar. II. Título.
-22-125280
-Índices para catálogo sistemático:
-1. Literatura infantil 028.5
-2. Literatura infantojuvenil 028.5
-Aline Graziele Benitez - Bibliotecária - CRB-1/3129
 
-Direitos reservados em língua
-portuguesa somente para o Brasil.
-Acorde Produções Musicais LTDA
-Rua Comendador Martineli, 560,
-Rio de Janeiro, RJ, CEP 20561-060, +55 21 2280-5952
-contato@maisemelhores.com.br
-
-CDD-028.5
-
-![2](./img/page_2-01.jpg)
-[Página 3]
-![3](./img/page_3-01.jpg)
 [Página 4]
-![4](./img/page_4-01.jpg)
+
 [Página 5]
 SOU UM INSTRUMENTO REDONDO
 QUE FAZ TUM-TÁ- TUM MANEIRO
@@ -55,7 +22,6 @@ QUE FAZ TUM - TÁ - TUM MANEIRO
 
 
 
-![5](./img/page_5-01.jpg)
 [Página 6]
 TENHO UM METAL
 QUE ME ABRAÇA
@@ -63,7 +29,6 @@ TENHO UM METAL
 QUE ME ABRAÇA
 
 
-![6](./img/page_6-01.jpg)
 [Página 7]
 POSSO TOCAR
 
@@ -78,7 +43,6 @@ CHORO
 COCO
 
 
-![7](./img/page_7-01.jpg)
 [Página 8]
 MARACATU
 
@@ -87,7 +51,6 @@ CAPOEIRA
 
 FORRÓ
 
-![8](./img/page_8-01.jpg)
 [Página 9]
 IJEXÁ
 PARTIDO ALTO
@@ -96,7 +59,6 @@ E ATÉ CANTIGA
 DE BOIADEIRO
 
 
-![9](./img/page_9-01.jpg)
 [Página 10]
 TENHO AO MEU REDOR
 UMA MADEIRA QUE ME
@@ -106,7 +68,6 @@ TENHO AO MEU REDOR UMA MADEIRA
 QUE ME ENVOLVE POR INTEIRO!
 
 
-![10](./img/page_10-01.jpg)
 [Página 11]
 JOÃO DA BAIANA,
 JORGINHO, JACKSON,
@@ -117,7 +78,6 @@ SÃO ALGUNS DOS MEUS
 COMPANHEIROS
 
 
-![11](./img/page_11-01.jpg)
 [Página 12]
 POSSO SER DE COURO OU DE NAILON
 QUE MUDA MEU SOM POR INTEIRO
@@ -128,7 +88,6 @@ ATÉ NENÉM
 FAZ PA-PUM
 LIGEIRO
 
-![12](./img/page_12-01.jpg)
 [Página 13]
 POSSO ESTAR NA ESPANHA,
 PORTUGAL,
@@ -148,14 +107,12 @@ E SOU TAMBÉM UM
 INSTRUMENTO BRASILEIRO!
 
 
-![13](./img/page_13-01.jpg)
 [Página 14]
 SEI FAZER SOM ALTO - TÁ
 E TAMBÉM BAIXINHO - SSSSS
 PRA NÃO ACORDAR O FESTEIRO
 
 
-![14](./img/page_14-01.jpg)
 [Página 15]
 SOU TOCADOR NO RECIFE,
 AMAZÔNIA,
@@ -173,53 +130,43 @@ TERESINA, VITÓRIA
 E ATÉ JUAZEIRO
 
 
-![15](./img/page_15-01.jpg)
 [Página 16]
 AS PEQUENAS PLATINELAS
 FAZEM XXXX E O PESSOAL
 DANÇA O DIA INTEIRO
 
 
-![16](./img/page_16-01.jpg)
 [Página 17]
 
-![17](./img/page_17-01.jpg)
 [Página 18]
 SERÁ QUE VOCÊ
 JÁ SABE QUEM
 EU SOU?
 
 
-![18](./img/page_18-01.jpg)
 [Página 19]
 
-![19](./img/page_19-01.jpg)
 [Página 20]
 MUITO PRAZER!
 O MEU NOME
 É PANDEIRO
 
 
-![20](./img/page_20-01.jpg)
 [Página 21]
 SERÁ QUE VOCÊ JÁ SABE QUEM EU SOU?
 MUITO PRAZER! O MEU NOME É PANDEIRO
 
 
-![21](./img/page_21-01.jpg)
 [Página 22]
 
 
-![22](./img/page_22-01.jpg)
 [Página 23]
 
 
 
 
-![23](./img/page_23-01.jpg)
 [Página 24]
 Esta obra foi composta em Helvética
 e impressa em offset 90 g/m2
 para a Acorde Produções Musicais LTDA.
 
-![24](./img/page_24-01.jpg)

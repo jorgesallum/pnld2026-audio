@@ -1,26 +1,19 @@
 [Página 1]
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 1
+O que é ciência?
+
+De Cassia dos Santos
+Com ilustrações de Pedro Junior
 
 
-26/09/2024 08:41:45
 
-![1](./img/page_1-01.jpg)
 
 ---
 
 [Página 2]
-Copyright do texto © 2024 Cassia dos Santos
-Copyright das ilustrações © 2024 Pedro Junior
 
-Todos os direitos reservados à Saíra Editorial.
 
-O QUE E CIENCIA.indd 2
 
-26/09/2024 08:41:47
-
-![2](./img/page_2-01.jpg)
 
 ---
 
@@ -30,11 +23,8 @@ MANEIRA DE DESVENDAR
 OS MISTÉRIOS DO MUNDO
 AO NOSSO REDOR.
 
-O QUE E CIENCIA.indd 3
 
-26/09/2024 08:41:48
 
-![3](./img/page_3-01.jpg)
 
 ---
 
@@ -46,25 +36,17 @@ ANIMAIS, AS PLANTAS E NÓS
 MESMOS!
 
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 4
 
-26/09/2024 08:41:52
 
-![4](./img/page_4-01.jpg)
 
 ---
 
 [Página 5]
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 5
 
 
-26/09/2024 08:41:52
 
-![5](./img/page_5-01.jpg)
+
 
 ---
 
@@ -76,37 +58,25 @@ DO CÉU, COM SUAS ESTRELAS E
 CONSTELAÇÕES.
 
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 6
 
-26/09/2024 08:41:58
 
-![6](./img/page_6-01.jpg)
 
 ---
 
 [Página 7]
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 7
 
 
-26/09/2024 08:41:59
 
-![7](./img/page_7-01.jpg)
+
 
 ---
 
 [Página 8]
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 8
 
-26/09/2024 08:42:03
 
-![8](./img/page_8-01.jpg)
 
 ---
 
@@ -115,14 +85,10 @@ ELA NOS ENSINA SOBRE A ÁGUA QUE
 BEBEMOS, A LUZ QUE ILUMINA NOSSO
 DIA E A TERRA QUE PISAMOS.
 
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 9
 
 
-26/09/2024 08:42:04
 
-![9](./img/page_9-01.jpg)
+
 
 ---
 
@@ -132,25 +98,17 @@ ENTENDER COMO AS PESSOAS SE
 RELACIONAM E SE COMUNICAM.
 
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 10
 
-26/09/2024 08:42:06
 
-![10](./img/page_10-01.jpg)
 
 ---
 
 [Página 11]
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 11
 
 
-26/09/2024 08:42:07
 
-![11](./img/page_11-01.jpg)
+
 
 ---
 
@@ -160,37 +118,25 @@ A LUZ VIAJA PELO ESPAÇO E COMO A TERRA É FORMADA
 POR DIFERENTES TIPOS DE SOLO E DE ROCHAS.
 
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 12
 
-26/09/2024 08:42:11
 
-![12](./img/page_12-01.jpg)
 
 ---
 
 [Página 13]
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 13
 
 
-26/09/2024 08:42:11
 
-![13](./img/page_13-01.jpg)
+
 
 ---
 
 [Página 14]
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 14
 
-26/09/2024 08:42:15
 
-![14](./img/page_14-01.jpg)
 
 ---
 
@@ -202,26 +148,18 @@ UM ARCO-ÍRIS DENTRO DE CASA
 E ATÉ MESMO PLANTAR NOSSO
 PRÓPRIO JARDIM!
 
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 15
 
 
-26/09/2024 08:42:16
 
-![15](./img/page_15-01.jpg)
+
 
 ---
 
 [Página 16]
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 16
 
-26/09/2024 08:42:20
 
-![16](./img/page_16-01.jpg)
 
 ---
 
@@ -231,14 +169,10 @@ CIÊNCIA É TER CURIOSIDADE,
 PERGUNTAR POR QUE AS COISAS SÃO
 COMO SÃO E IMAGINAR RESPOSTAS.
 
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 17
 
 
-26/09/2024 08:42:20
 
-![17](./img/page_17-01.jpg)
+
 
 ---
 
@@ -248,25 +182,17 @@ PARA VER SE AS RESPOSTAS
 ESTAVAM CERTAS.
 
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 18
 
-26/09/2024 08:42:22
 
-![18](./img/page_18-01.jpg)
 
 ---
 
 [Página 19]
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 19
 
 
-26/09/2024 08:42:22
 
-![19](./img/page_19-01.jpg)
+
 
 ---
 
@@ -276,37 +202,25 @@ LEVAM A DESCOBERTAS IMPORTANTES. E CADA
 DESCOBERTA GERA MAIS CURIOSIDADE...
 
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 20
 
-26/09/2024 08:42:25
 
-![20](./img/page_20-01.jpg)
 
 ---
 
 [Página 21]
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 21
 
 
-26/09/2024 08:42:25
 
-![21](./img/page_21-01.jpg)
+
 
 ---
 
 [Página 22]
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 22
 
-26/09/2024 08:42:28
 
-![22](./img/page_22-01.jpg)
 
 ---
 
@@ -315,14 +229,10 @@ O QUE E CIENCIA.indd 22
 PARA INVENTAR COISAS QUE TAMBÉM
 MELHORAM NOSSA VIDA.
 
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 23
 
 
-26/09/2024 08:42:28
 
-![23](./img/page_23-01.jpg)
+
 
 ---
 
@@ -334,37 +244,25 @@ TRAZER RESULTADOS
 RUINS...
 
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 24
 
-26/09/2024 08:42:31
 
-![24](./img/page_24-01.jpg)
 
 ---
 
 [Página 25]
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 25
 
 
-26/09/2024 08:42:31
 
-![25](./img/page_25-01.jpg)
+
 
 ---
 
 [Página 26]
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 26
 
-26/09/2024 08:42:34
 
-![26](./img/page_26-01.jpg)
 
 ---
 
@@ -372,14 +270,10 @@ O QUE E CIENCIA.indd 26
 MAS É A PRÓPRIA CIÊNCIA QUE
 VAI NOS AJUDAR A ENCONTRAR AS
 SOLUÇÕES.
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 27
 
 
-26/09/2024 08:42:34
 
-![27](./img/page_27-01.jpg)
+
 
 ---
 
@@ -388,37 +282,25 @@ CABE A NÓS FAZER CIÊNCIA COM
 RESPONSABILIDADE!
 
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 28
 
-26/09/2024 08:42:36
 
-![28](./img/page_28-01.jpg)
 
 ---
 
 [Página 29]
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 29
 
 
-26/09/2024 08:42:37
 
-![29](./img/page_29-01.jpg)
+
 
 ---
 
 [Página 30]
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 30
 
-26/09/2024 08:42:42
 
-![30](./img/page_30-01.jpg)
 
 ---
 
@@ -429,14 +311,10 @@ COM ELA, PODEMOS PROTEGER O NOSSO
 PLANETA E CONSTRUIR UM FUTURO
 MELHOR PARA TODOS.
 
-O QUE É CIÊNCIA?
-
-O QUE E CIENCIA.indd 31
 
 
-26/09/2024 08:42:42
 
-![31](./img/page_31-01.jpg)
+
 
 ---
 
@@ -477,13 +355,9 @@ E QUE ELAS INSPIREM E FAÇAM
 IMAGINAR UM MUNDO MÁGICO
 CHEIO DE AVENTURAS.
 
-O QUE É CIÊNCIA?
 
-O QUE E CIENCIA.indd 32
 
-26/09/2024 08:42:43
 
-![32](./img/page_32-01.jpg)
 
 ---
 

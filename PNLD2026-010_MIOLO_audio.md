@@ -1,46 +1,24 @@
 [Página 1]
-O QUE É QUILOMBO.indd 1
+O que é quilombo?
 
-26/09/2024 10:32:44
+De Cássia dos Santos 
 
-![1](./img/page_1-01.jpg)
+Ilustrações de Aline Beatriz Alves
 
 ---
 
 [Página 2]
-Copyright do texto © 2024 Cássia dos Santos
-Copyright das ilustrações © 2024 Aline Beatriz Alves
-
-Todos os direitos reservados à Saíra Editorial.
-
-O QUE É QUILOMBO.indd 2
-
-26/09/2024 10:32:45
-
-![2](./img/page_2-01.jpg)
 
 ---
 
 [Página 3]
 NO BRASIL EXISTIU ESCRAVIDÃO.
 
-O QUE É QUILOMBO.indd 3
-
-26/09/2024 10:32:45
-
-![3](./img/page_3-01.jpg)
 
 ---
 
 [Página 4]
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 4
-
-26/09/2024 10:32:46
-
-![4](./img/page_4-01.jpg)
 
 ---
 
@@ -53,14 +31,6 @@ OS POVOS INDÍGENAS. QUE TAMBÉM SÃO CHAMADOS
 DE POVOS ORIGINÁRIOS.
 ORIGINÁRIOS
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 5
-
-
-26/09/2024 10:32:47
-
-![5](./img/page_5-01.jpg)
 
 ---
 
@@ -70,37 +40,17 @@ A TRAZER ESCRAVIZADOS DE VÁRIOS
 LUGARES DA ÁFRICA
 ÁFRICA.
 
-O QUE É QUILOMBO.indd 6
-
-26/09/2024 10:32:49
-
-![6](./img/page_6-01.jpg)
 
 ---
 
 [Página 7]
 MUITOS DESSES AFRICANOS MORRIAM
-VINDO DA ÁFRICA PARA O BRASIL.
-O QUE É QUILOMBO?
 
-O QUE É QUILOMBO.indd 7
-
-
-26/09/2024 10:32:49
-
-![7](./img/page_7-01.jpg)
 
 ---
 
 [Página 8]
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 8
-
-26/09/2024 10:32:52
-
-![8](./img/page_8-01.jpg)
 
 ---
 
@@ -109,14 +59,6 @@ NA ESCRAVIDÃO, OS AFRICANOS SOFRIAM MUITO. FICAVAM
 PRESOS EM SENZALAS E ERAM CASTIGADOS POR QUALQUER
 MOTIVO. FOI UM TEMPO MUITO TRISTE DA NOSSA HISTÓRIA.
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 9
-
-
-26/09/2024 10:32:53
-
-![9](./img/page_9-01.jpg)
 
 ---
 
@@ -128,13 +70,6 @@ QUILOMBOS
 LUGARES ESCONDIDOS.
 
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 10
-
-26/09/2024 10:32:55
-
-![10](./img/page_10-01.jpg)
 
 ---
 
@@ -142,14 +77,6 @@ O QUE É QUILOMBO.indd 10
 MUITOS INDÍGENAS AJUDAVAM OS NEGROS A SE
 ESCONDER E VIVIAM COM ELES NOS QUILOMBOS.
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 11
-
-
-26/09/2024 10:32:56
-
-![11](./img/page_11-01.jpg)
 
 ---
 
@@ -158,13 +85,6 @@ QUILOMBO É UMA TERRA ONDE A CULTURA
 DESSAS PESSOAS FOI PRESERVADA.
 
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 12
-
-26/09/2024 10:32:58
-
-![12](./img/page_12-01.jpg)
 
 ---
 
@@ -172,14 +92,6 @@ O QUE É QUILOMBO.indd 12
 E ONDE PUDERAM RECUPERAR SUA
 LIBERDADE E SEREM FELIZES.
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 13
-
-
-26/09/2024 10:32:59
-
-![13](./img/page_13-01.jpg)
 
 ---
 
@@ -189,13 +101,6 @@ RESISTÊNCIA CONTRA QUALQUER
 TIPO DE OPRESSÃO.
 
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 14
-
-26/09/2024 10:33:00
-
-![14](./img/page_14-01.jpg)
 
 ---
 
@@ -204,14 +109,6 @@ ALGUNS QUILOMBOS DESAPARECERAM, MAS
 MUITOS RESISTEM/EXISTEM ATÉ HOJE,
 MANTENDO SUAS TRADIÇÕES.
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 15
-
-
-26/09/2024 10:33:01
-
-![15](./img/page_15-01.jpg)
 
 ---
 
@@ -221,13 +118,6 @@ HÁ VÁRIOS QUILOMBOS DENTRO
 DAS CIDADES!
 
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 16
-
-26/09/2024 10:33:03
-
-![16](./img/page_16-01.jpg)
 
 ---
 
@@ -237,26 +127,11 @@ E QUEM MORA NELES É CHAMADO
 DE QUILOMBOLA
 QUILOMBOLA.
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 17
-
-
-26/09/2024 10:33:04
-
-![17](./img/page_17-01.jpg)
 
 ---
 
 [Página 18]
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 18
-
-26/09/2024 10:33:06
-
-![18](./img/page_18-01.jpg)
 
 ---
 
@@ -268,14 +143,6 @@ MAZURCA E JONGO…
 A GENTE APRENDE MUITA COISA
 VIVENDO EM CULTURAS QUILOMBOLAS.
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 19
-
-
-26/09/2024 10:33:07
-
-![19](./img/page_19-01.jpg)
 
 ---
 
@@ -287,13 +154,6 @@ MOÇAMBIQUE, Ô GENTE...
 EU SOU NEGRO SIM SINHÔ.
 
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 20
-
-26/09/2024 10:33:09
-
-![20](./img/page_20-01.jpg)
 
 ---
 
@@ -304,14 +164,6 @@ INDÍGENAS. E CULTURA É TUDO O
 QUE NÓS SOMOS: CONHECIMENTOS,
 HÁBITOS E CRENÇAS.
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 21
-
-
-26/09/2024 10:33:10
-
-![21](./img/page_21-01.jpg)
 
 ---
 
@@ -321,13 +173,6 @@ CONHECIMENTOS QUE PASSAMOS PARA AS
 PRÓXIMAS GERAÇÕES.
 
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 22
-
-26/09/2024 10:33:12
-
-![22](./img/page_22-01.jpg)
 
 ---
 
@@ -336,26 +181,11 @@ COMO A RELIGIÃO E A COMIDA DE NOSSOS
 AVÓS, UMA HISTÓRIA GUARDADA COM
 CARINHO E O CHEIRO DE PÃO QUENTINHO.
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 23
-
-
-26/09/2024 10:33:13
-
-![23](./img/page_23-01.jpg)
 
 ---
 
 [Página 24]
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 24
-
-26/09/2024 10:33:14
-
-![24](./img/page_24-01.jpg)
 
 ---
 
@@ -363,14 +193,6 @@ O QUE É QUILOMBO.indd 24
 FAMÍLIAS QUILOMBOLAS OCUPAM
 TERRITÓRIOS BRASILEIROS HÁ SÉCULOS.
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 25
-
-
-26/09/2024 10:33:15
-
-![25](./img/page_25-01.jpg)
 
 ---
 
@@ -380,25 +202,10 @@ A NATUREZA
 NATUREZA, CUIDANDO DELA.
 
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 26
-
-26/09/2024 10:33:17
-
-![26](./img/page_26-01.jpg)
 
 ---
 
-[Página 27]
-O QUE É QUILOMBO?
 
-O QUE É QUILOMBO.indd 27
-
-
-26/09/2024 10:33:18
-
-![27](./img/page_27-01.jpg)
 
 ---
 
@@ -409,25 +216,10 @@ CONHECIMENTOS QUE PRECISAMOS
 APRENDER PARA PASSAR ADIANTE.
 
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 28
-
-26/09/2024 10:33:20
-
-![28](./img/page_28-01.jpg)
 
 ---
 
-[Página 29]
-O QUE É QUILOMBO?
 
-O QUE É QUILOMBO.indd 29
-
-
-26/09/2024 10:33:21
-
-![29](./img/page_29-01.jpg)
 
 ---
 
@@ -445,13 +237,6 @@ MUNDO INTEIRINHO… OU APENAS UMA PARTE DELE.
 ALÉM DE SER CIENTISTA, É MÃE DE UM GATO MUITO
 FOFO E GRANDE, O FREDERICO.
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 30
-
-26/09/2024 10:33:23
-
-![30](./img/page_30-01.jpg)
 
 ---
 
@@ -468,26 +253,11 @@ E DIVIDIMOS NOSSA CASA COM A GATINHA
 TANGERINA, QUE UM DIA APARECEU EM NOSSA
 CASA E DESDE ENTÃO RESOLVEU NOS ADOTAR.
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 31
-
-
-26/09/2024 10:33:25
-
-![31](./img/page_31-01.jpg)
 
 ---
 
 [Página 32]
 
-O QUE É QUILOMBO?
-
-O QUE É QUILOMBO.indd 32
-
-26/09/2024 10:33:25
-
-![32](./img/page_32-01.jpg)
 
 ---
 

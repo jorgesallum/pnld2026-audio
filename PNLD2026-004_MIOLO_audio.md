@@ -1,18 +1,13 @@
 [Página 1]
 O QUE É AUTISMO?
 
+DE MILENA E ROGER TRIMER
 
-![1](./img/page_1-01.jpg)
+COM ILUSTRAÇÕES DE JULIO NOGUEIRA
 
 ---
 
 [Página 2]
-Copyright do texto © 2024 Roger e Milena Trimer
-Copyright das ilustrações © 2024 Mariline Nacarate Alves
-
-Todos os direitos reservados à Saíra Editorial.
-
-![2](./img/page_2-01.jpg)
 
 ---
 
@@ -21,7 +16,6 @@ DENTRO DA NOSSA CABEÇA, TEMOS
 UM COMPUTADOR MUITO PODEROSO:
 NOSSO CÉREBRO.
 
-![3](./img/page_3-01.jpg)
 
 ---
 
@@ -36,7 +30,6 @@ MUNDO DE UMA FORMA DIFERENTE.
 
 O QUE É AUTISMO?
 
-![4](./img/page_4-01.jpg)
 
 ---
 
@@ -44,7 +37,6 @@ O QUE É AUTISMO?
 O QUE É AUTISMO?
 
 
-![5](./img/page_5-01.jpg)
 
 ---
 
@@ -60,7 +52,6 @@ AUTISTAS SOFREREM
 
 O QUE É AUTISMO?
 
-![6](./img/page_6-01.jpg)
 
 ---
 
@@ -68,7 +59,6 @@ O QUE É AUTISMO?
 O QUE É AUTISMO?
 
 
-![7](./img/page_7-01.jpg)
 
 ---
 
@@ -76,7 +66,6 @@ O QUE É AUTISMO?
 
 O QUE É AUTISMO?
 
-![8](./img/page_8-01.jpg)
 
 ---
 
@@ -90,7 +79,6 @@ DE UM JEITO DIFERENTE DO QUE ESPERAVAM.
 O QUE É AUTISMO?
 
 
-![9](./img/page_9-01.jpg)
 
 ---
 
@@ -107,7 +95,6 @@ COISAS DE MANEIRA LITERAL.
 
 O QUE É AUTISMO?
 
-![10](./img/page_10-01.jpg)
 
 ---
 
@@ -115,7 +102,6 @@ O QUE É AUTISMO?
 O QUE É AUTISMO?
 
 
-![11](./img/page_11-01.jpg)
 
 ---
 
@@ -125,7 +111,6 @@ ASSIM. DESDE BEBÊS ELES SÃO
 DIFERENTES, NÃO SE COMUNICAM,
 FICAM LÁ NO SEU MUNDINHO.
 
-![12](./img/page_12-01.jpg)
 
 ---
 
@@ -137,7 +122,6 @@ A SEGURANÇA DE SEU MUNDO PARTICULAR.
 O QUE É AUTISMO?
 
 
-![13](./img/page_13-01.jpg)
 
 ---
 
@@ -151,7 +135,6 @@ BRILHANTES E CHEIROS FORTES.
 
 O QUE É AUTISMO?
 
-![14](./img/page_14-01.jpg)
 
 ---
 
@@ -159,7 +142,6 @@ O QUE É AUTISMO?
 O QUE É AUTISMO?
 
 
-![15](./img/page_15-01.jpg)
 
 ---
 
@@ -174,7 +156,6 @@ QUANDO ESTÃO FELIZES.
 
 O QUE É AUTISMO?
 
-![16](./img/page_16-01.jpg)
 
 ---
 
@@ -182,7 +163,6 @@ O QUE É AUTISMO?
 O QUE É AUTISMO?
 
 
-![17](./img/page_17-01.jpg)
 
 ---
 
@@ -194,7 +174,6 @@ GIRAR COMO UM PIÃO...
 
 O QUE É AUTISMO?
 
-![18](./img/page_18-01.jpg)
 
 ---
 
@@ -209,7 +188,6 @@ MUITO FORTE.
 O QUE É AUTISMO?
 
 
-![19](./img/page_19-01.jpg)
 
 ---
 
@@ -222,7 +200,6 @@ SABEM O QUE ESTÃO FAZENDO!
 
 O QUE É AUTISMO?
 
-![20](./img/page_20-01.jpg)
 
 ---
 
@@ -230,7 +207,6 @@ O QUE É AUTISMO?
 O QUE É AUTISMO?
 
 
-![21](./img/page_21-01.jpg)
 
 ---
 
@@ -243,7 +219,6 @@ QUE GOSTAM MUITO E SÓ PENSAM NELA.
 
 O QUE É AUTISMO?
 
-![22](./img/page_22-01.jpg)
 
 ---
 
@@ -256,7 +231,6 @@ EM MONTAR O CUBO MÁGICO!
 O QUE É AUTISMO?
 
 
-![23](./img/page_23-01.jpg)
 
 ---
 
@@ -264,7 +238,6 @@ O QUE É AUTISMO?
 
 O QUE É AUTISMO?
 
-![24](./img/page_24-01.jpg)
 
 ---
 
@@ -281,7 +254,6 @@ PERGUNTAR QUE ELE VAI EXPLICAR TUDINHO!
 O QUE É AUTISMO?
 
 
-![25](./img/page_25-01.jpg)
 
 ---
 
@@ -292,7 +264,6 @@ COISAS PARECIDAS, MAS TODOS SÃO DIFERENTES.
 
 O QUE É AUTISMO?
 
-![26](./img/page_26-01.jpg)
 
 ---
 
@@ -304,7 +275,6 @@ INCOMODAM ATÉ COM AS ROUPAS QUE VESTEM.
 O QUE É AUTISMO?
 
 
-![27](./img/page_27-01.jpg)
 
 ---
 
@@ -317,7 +287,6 @@ ERRADO COM ELAS.
 
 O QUE É AUTISMO?
 
-![28](./img/page_28-01.jpg)
 
 ---
 
@@ -330,7 +299,6 @@ RESPEITADOS E AMADOS.
 O QUE É AUTISMO?
 
 
-![29](./img/page_29-01.jpg)
 
 ---
 
@@ -369,7 +337,6 @@ HEROÍNA DE QUADRINHOS!
 
 O QUE É AUTISMO?
 
-![30](./img/page_30-01.jpg)
 
 ---
 
@@ -393,7 +360,6 @@ DE AVENTURAS.
 O QUE É AUTISMO?
 
 
-![31](./img/page_31-01.jpg)
 
 ---
 
@@ -401,7 +367,6 @@ O QUE É AUTISMO?
 
 O QUE É AUTISMO?
 
-![32](./img/page_32-01.jpg)
 
 ---
 

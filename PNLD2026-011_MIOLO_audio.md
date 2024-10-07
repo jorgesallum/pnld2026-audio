@@ -1,60 +1,16 @@
 [Página 1]
+
 FOGO NO PANTANAL:
 a onça-pintada está machucada
 
-PNLD2026-011.indd 1
+de Luciana Leite
 
-20/09/2024 14:29:08
+Com ilustrações de Cecília Saro
 
-![1](./img/page_1-01.jpg)
 
 ---
 
 [Página 2]
-Copyright da edição © Edlab, 2024
-Copyright do texto © Luciana Leite
-Copyright das ilustrações © Cecillia Saro
-Edição
-Produção editorial Andressa Cerqueira
-Esta obra é uma adaptação de um dos títulos da coleção
-'Vozes do Pantanal' produzida pelo projeto socio ambiental
-Chalana Esperança, com apoio da Acaia Pantanal e
-Documenta Pantanal.
-
-Dados Internacionais de Catalogação na Publicação (CIP)
-(Câmara Brasileira do Livro, SP, Brasil)
-Leite, Luciana
-Fogo no Pantanal : a deusa da chuva está
-machucada / Luciana Leite ; ilustração Cecília
-Saro. -- 2. ed. -- São Paulo : Ed. da Autora,
-2023. -- (Vozes do Pantanal)
-ISBN 978-65-00-87303-0
-1. Animais - Literatura infantojuvenil 2. Meio
-ambiente - Conservação 3. Onça-pintada - Literatura
-infantojuvenil 4. Pantanal Mato-grossense (MT e MS) Literatura infantojuven I. Saro, Cecília. II. Título.
-III. Série.
-
-23-182452
-
-à todos os
-voluntários,
-que, nos últimos anos
-têm se unido para salvar o Pantanal.
-
-CDD-028.5
-Índices para catálogo sistemático:
-
-1. Literatura infantil
-028.5
-2. Literatura infantojuvenil
-028.5
-Tábata Alves da Silva - Bibliotecária - CRB-8/9253
-
-PNLD2026-011.indd 2-3
-
-20/09/2024 14:29:09
-
-![2](./img/page_2-01.jpg)
 
 ---
 
@@ -62,11 +18,8 @@ PNLD2026-011.indd 2-3
 Moro no Pantanal,
 Sou uma fêmea de onça-pintada,
 
-PNLD2026-011.indd 4-5
 
-20/09/2024 14:29:10
 
-![3](./img/page_3-01.jpg)
 
 ---
 
@@ -74,11 +27,8 @@ PNLD2026-011.indd 4-5
 Sou um animal forte e valente,
 Mas hoje estou machucada.
 
-PNLD2026-011.indd 6-7
 
-20/09/2024 14:29:13
 
-![4](./img/page_4-01.jpg)
 
 ---
 
@@ -86,14 +36,10 @@ PNLD2026-011.indd 6-7
 Eu queimei minhas patinhas,
 Estou me sentindo muito mal
 
-PNLD2026-011.indd 8-9
 
-Eu preciso de um veterinário
 Para me levar ao hospital
 
-20/09/2024 14:29:17
 
-![5](./img/page_5-01.jpg)
 
 ---
 
@@ -101,11 +47,8 @@ Para me levar ao hospital
 Me escondi em uma fazenda
 E vou contar o que aconteceu.
 
-PNLD2026-011.indd 10-11
 
-20/09/2024 14:29:19
 
-![6](./img/page_6-01.jpg)
 
 ---
 
@@ -114,11 +57,8 @@ A minha história começa triste,
 Mas, você vai ver que, no fim,
 O amor venceu.
 
-PNLD2026-011.indd 12-13
 
-20/09/2024 14:29:21
 
-![7](./img/page_7-01.jpg)
 
 ---
 
@@ -126,11 +66,8 @@ PNLD2026-011.indd 12-13
 O Pantanal sempre foi muito bonito,
 Com muitas plantas e animais
 
-PNLD2026-011.indd 14-15
 
-20/09/2024 14:29:24
 
-![8](./img/page_8-01.jpg)
 
 ---
 
@@ -138,11 +75,8 @@ PNLD2026-011.indd 14-15
 Todos preservavam a floresta e,
 juntos, vivíamos em paz.
 
-PNLD2026-011.indd 16-17
 
-20/09/2024 14:29:27
 
-![9](./img/page_9-01.jpg)
 
 ---
 
@@ -150,14 +84,10 @@ PNLD2026-011.indd 16-17
 Mas os anos foram se passando,
 E a água desapareceu.
 
-PNLD2026-011.indd 18-19
 
-Dizem que onde tiraram as árvores,
 O rio nunca mais correu.
 
-20/09/2024 14:29:30
 
-![10](./img/page_10-01.jpg)
 
 ---
 
@@ -165,14 +95,10 @@ O rio nunca mais correu.
 Sem os rios e sem a chuva
 A terra foi secando.
 
-PNLD2026-011.indd 20-21
 
-O calor está muito forte,
 Sinto que o clima está mudando.
 
-20/09/2024 14:29:35
 
-![11](./img/page_11-01.jpg)
 
 ---
 
@@ -180,11 +106,8 @@ Sinto que o clima está mudando.
 E agora estamos com muito medo
 Porque tem fogo por todo lado,
 
-PNLD2026-011.indd 22-23
 
-20/09/2024 14:29:41
 
-![12](./img/page_12-01.jpg)
 
 ---
 
@@ -192,11 +115,8 @@ PNLD2026-011.indd 22-23
 E além de mim, eu fiquei sabendo,
 Que tem outros bichos machucados.
 
-PNLD2026-011.indd 24-25
 
-20/09/2024 14:29:43
 
-![13](./img/page_13-01.jpg)
 
 ---
 
@@ -204,11 +124,8 @@ PNLD2026-011.indd 24-25
 As pessoas vão precisar ter mais cuidado,
 Não podem colocar fogo na floresta.
 
-PNLD2026-011.indd 26-27
 
-20/09/2024 14:29:50
 
-![14](./img/page_14-01.jpg)
 
 ---
 
@@ -216,11 +133,8 @@ PNLD2026-011.indd 26-27
 Ele espalha rápido e destrói tudo!
 Olhe o pouco que nos resta.
 
-PNLD2026-011.indd 28-29
 
-20/09/2024 14:29:54
 
-![15](./img/page_15-01.jpg)
 
 ---
 
@@ -228,14 +142,10 @@ PNLD2026-011.indd 28-29
 Agora chegou o meu resgate,
 Preciso me despedir.
 
-PNLD2026-011.indd 30-31
 
-Mas vamos combinar que a nossa história
 Não termina por aqui!
 
-20/09/2024 14:29:57
 
-![16](./img/page_16-01.jpg)
 
 ---
 
@@ -243,11 +153,8 @@ Não termina por aqui!
 O mundo todo vai ter que se unir
 Para proteger o Pantanal,
 
-PNLD2026-011.indd 32-33
 
-20/09/2024 14:30:00
 
-![17](./img/page_17-01.jpg)
 
 ---
 
@@ -255,11 +162,8 @@ PNLD2026-011.indd 32-33
 Vamos juntar crianças e adultos
 Nesta missão especial!
 
-PNLD2026-011.indd 34-35
 
-20/09/2024 14:30:09
 
-![18](./img/page_18-01.jpg)
 
 ---
 
@@ -267,14 +171,10 @@ PNLD2026-011.indd 34-35
 Vamos replantar as matas
 E trazer de volta os rios,
 
-PNLD2026-011.indd 36-37
 
-Para os próximos anos,
 Este será o nosso desafio!
 
-20/09/2024 14:30:11
 
-![19](./img/page_19-01.jpg)
 
 ---
 
@@ -282,11 +182,8 @@ Este será o nosso desafio!
 Vamos proteger a natureza
 E salvar as onças-pintadas.
 
-PNLD2026-011.indd 38-39
 
-20/09/2024 14:30:12
 
-![20](./img/page_20-01.jpg)
 
 ---
 
@@ -294,11 +191,8 @@ PNLD2026-011.indd 38-39
 Eu conto com você
 Para proteger a bicharada!
 
-PNLD2026-011.indd 40-41
 
-20/09/2024 14:30:21
 
-![21](./img/page_21-01.jpg)
 
 ---
 
@@ -335,11 +229,8 @@ a Amanaci em liberdade outra vez, mas com a garantia de estar segura,
 em um lugar onde os animais pudessem viver em paz e com o respeito
 que merecem. Será que esse lugar existe?
 
-PNLD2026-011.indd 42-43
 
-20/09/2024 14:30:21
 
-![22](./img/page_22-01.jpg)
 
 ---
 
@@ -358,9 +249,7 @@ biodiversidade. Luciana é autora também dos livros infantis
 ciências, e “O retorno da Arara-Azul-de-Lear”, sobre um
 projeto de soltura da espécie no sertão baiano.
 
-PNLD2026-011.indd 44-45
 
-ILUSTRADORA
 Cecilia Saro é uma artista visual e feminista que tem como
 maior fonte de inspiração do seu trabalho a natureza e o
 feminino. Em 2020, participou de um movimento para
@@ -372,9 +261,7 @@ várias peças e livros sobre o Pantanal, torcendo que seu
 trabalho inspire gerações futuras a amarem e cuidarem da
 nossa biodiversidade.
 
-20/09/2024 14:30:29
 
-![23](./img/page_23-01.jpg)
 
 ---
 
@@ -400,23 +287,16 @@ Tapirus terrestris
 Cardeal - do - Pantanal
 Paroaria capitata
 
-PNLD2026-011.indd 46-47
 
-Onça - Pintada
 Panthera onca
 
-20/09/2024 14:30:31
 
-![24](./img/page_24-01.jpg)
 
 ---
 
 [Página 25]
-PNLD2026-011.indd 48
 
-20/09/2024 14:30:32
 
-![25](./img/page_25-01.jpg)
 
 ---
 

@@ -1,19 +1,17 @@
 [Página 1]
-![1](./img/page_1-01.jpg)
+
+UMA NUVEM CHAMADA BENTO
+
+
+DE LAURA BERGAMO 
+
+COM ILUSTRAÇÕES DE LENA E MOISES CELEGATTI
+
 
 ---
 
 [Página 2]
-Copyright da edição © Acorde, 2024
-Copyright do texto © Laura Bergamo
-Copyright das ilustrações © Lena e moises celegatti
-Edição Paulo Almeida e Janaína Marquesini
-Assistência editorial Luisa marcelino
-Produção editorial Andressa Cerqueira
 
-![2](./img/page_2-01.jpg)
-
----
 
 [Página 3]
 ESTA É A HISTÓRIA DE ALGUÉM MUITO ESPECIAL. PARA SER MAIS ESPECÍFICA, DE UMA NUVEM. O BENTO.
@@ -98,7 +96,6 @@ EXPLICOU O SEGREDO: CADA NUVEM TEM UMA CRIANÇA.
 QUANDO VOCÊ CHORA, O CÉU ESCURECE E CHOVE.
 E MUITOS MENINOS PRECISAM ENTRAR EM CASA.
 
-![10](./img/page_10-01.jpg)
 
 ---
 
@@ -106,7 +103,6 @@ E MUITOS MENINOS PRECISAM ENTRAR EM CASA.
 - QUANDO VOCÊ SORRI, O CÉU ESTÁ AZUL E ELE PODE ADMIRAR VOCÊ.
 BENTO FICOU FELIZ. MESMO DE LONGE, ALGUÉM GOSTAVA TANTO DELE!
 
-![11](./img/page_11-01.jpg)
 
 ---
 
@@ -115,7 +111,6 @@ ENTÃO BENTO FICOU BRINCANDO DE CRIAR FORMAS PARA
 PEDRO ADMIRAR: LEÕES, PUDINS, ASTRONAUTAS
 E ATÉ DINOSSAUROS.
 
-![12](./img/page_12-01.jpg)
 
 ---
 
@@ -124,7 +119,6 @@ BENTO SE SENTIA ESPECIAL, COMO
 TODOS SÃO ESPECIAIS E TÊM UM LUGAR
 DETERMINADO NO UNIVERSO.
 
-![13](./img/page_13-01.jpg)
 
 ---
 
@@ -133,7 +127,6 @@ DAQUELE DIA EM DIANTE, BENTO NÃO CHORAVA POR ESTAR TRISTE,
 PORQUE ELE TINHA APRENDIDO COMO ERA UMA PEÇA IMPORTANTE
 PARA UM QUEBRA-CABEÇA GIGANTE CHAMADO MUNDO...
 
-![14](./img/page_14-01.jpg)
 
 ---
 
@@ -142,7 +135,6 @@ BENTO SÓ CHOVIA QUANDO A NATUREZA PEDIA. E ATÉ FAZIA ARCO-ÍRIS COM O SOL.
 
 SÓ PARA VER PEDRO SORRIR.
 
-![15](./img/page_15-01.jpg)
 
 ---
 
@@ -162,7 +154,6 @@ criança, ou contando histórias para crianças em um hospital
 de são paulo. “uma nuvem chamada bento” foi uma história
 que chegou durante um sonho e agora é realidade.
 
-![16](./img/page_16-01.jpg)
 
 ---
 

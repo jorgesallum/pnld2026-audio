@@ -1,23 +1,19 @@
 [Página 1]
-INGLES.indd 1
 
-26/09/2024 09:17:55
 
-![1](./img/page_1-01.jpg)
+Por que aprender inglês
+
+De Roger Trimer 
+
+Com ilustrações de Lu Doria
 
 ---
 
 [Página 2]
-Copyright do texto © 2024 Roger Trimer
-Copyright das ilustrações © 2024 Lu Dora
 
-Todos os direitos reservados à Saíra Editorial.
 
-INGLES.indd 2
 
-26/09/2024 09:17:56
 
-![2](./img/page_2-01.jpg)
 
 ---
 
@@ -29,23 +25,19 @@ MUNDO FALA E QUE TAMBÉM
 É IMPORTANTE APRENDER: O
 INGLÊS!
 
-INGLES.indd 3
 
-26/09/2024 09:17:57
 
-![3](./img/page_3-01.jpg)
+
 
 ---
 
 [Página 4]
 
-INGLES.indd 4
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:17:58
 
-![4](./img/page_4-01.jpg)
+
+
 
 ---
 
@@ -55,14 +47,12 @@ OUTRA LÍNGUA? TODO
 MUNDO QUE EU CONHEÇO
 FALA PORTUGUÊS!
 
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 5
 
 
-26/09/2024 09:17:59
 
-![5](./img/page_5-01.jpg)
+
+
+
 
 ---
 
@@ -74,25 +64,21 @@ OU IDIOMAS. MAS ESSES POVOS E
 PAÍSES PRECISAM SE ENTENDER!
 
 
-INGLES.indd 6
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:01
 
-![6](./img/page_6-01.jpg)
+
+
 
 ---
 
 [Página 7]
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 7
 
 
-26/09/2024 09:18:02
 
-![7](./img/page_7-01.jpg)
+
+
+
 
 ---
 
@@ -103,25 +89,21 @@ TODOS APRENDER E FALAR.
 HOJE, ESSA LÍNGUA É O INGLÊS!
 
 
-INGLES.indd 8
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:04
 
-![8](./img/page_8-01.jpg)
+
+
 
 ---
 
 [Página 9]
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 9
 
 
-26/09/2024 09:18:05
 
-![9](./img/page_9-01.jpg)
+
+
+
 
 ---
 
@@ -132,25 +114,21 @@ PARA OS ESTADOS UNIDOS E MUITOS
 OUTROS PAÍSES, TORNANDO-SE CADA
 VEZ MAIS FORTE.
 
-INGLES.indd 10
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:07
 
-![10](./img/page_10-01.jpg)
+
+
 
 ---
 
 [Página 11]
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 11
 
 
-26/09/2024 09:18:09
 
-![11](./img/page_11-01.jpg)
+
+
+
 
 ---
 
@@ -163,37 +141,31 @@ MOUSE, FASHION, DELIVERY... TODAS
 SÃO PALAVRAS EM INGLÊS!
 
 
-INGLES.indd 12
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:11
 
-![12](./img/page_12-01.jpg)
+
+
 
 ---
 
 [Página 13]
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 13
 
 
-26/09/2024 09:18:12
 
-![13](./img/page_13-01.jpg)
+
+
+
 
 ---
 
 [Página 14]
 
-INGLES.indd 14
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:14
 
-![14](./img/page_14-01.jpg)
+
+
 
 ---
 
@@ -205,26 +177,22 @@ PARA O PORTUGUÊS.
 SE A GENTE SABE INGLÊS, PODE OUVIR A VOZ REAL
 DAS PESSOAS QUE FIZERAM OS VÍDEOS E FILMES!
 
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 15
 
 
-26/09/2024 09:18:15
 
-![15](./img/page_15-01.jpg)
+
+
+
 
 ---
 
 [Página 16]
 
-INGLES.indd 16
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:17
 
-![16](./img/page_16-01.jpg)
+
+
 
 ---
 
@@ -237,26 +205,22 @@ OU DOS ESTADOS UNIDOS.
 ATÉ BRASILEIROS ÀS VEZES
 CANTAM EM INGLÊS!
 
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 17
 
 
-26/09/2024 09:18:18
 
-![17](./img/page_17-01.jpg)
+
+
+
 
 ---
 
 [Página 18]
 
-INGLES.indd 18
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:20
 
-![18](./img/page_18-01.jpg)
+
+
 
 ---
 
@@ -265,14 +229,12 @@ SE TEM UMA MÚSICA DE QUE
 VOCÊ GOSTA, NÃO É LEGAL SABER
 O QUE ELA ESTÁ DIZENDO?
 
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 19
 
 
-26/09/2024 09:18:21
 
-![19](./img/page_19-01.jpg)
+
+
+
 
 ---
 
@@ -284,37 +246,31 @@ INFORMAÇÕES SOBRE TUDO O QUE
 VOCÊ QUER SABER E APRENDER!
 
 
-INGLES.indd 20
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:24
 
-![20](./img/page_20-01.jpg)
+
+
 
 ---
 
 [Página 21]
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 21
 
 
-26/09/2024 09:18:25
 
-![21](./img/page_21-01.jpg)
+
+
+
 
 ---
 
 [Página 22]
 
-INGLES.indd 22
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:27
 
-![22](./img/page_22-01.jpg)
+
+
 
 ---
 
@@ -322,14 +278,12 @@ POR QUE APRENDER INGLÊS?
 E ISSO SEM FALAR NOS AMIGOS
 QUE PODE FAZER...
 
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 23
 
 
-26/09/2024 09:18:28
 
-![23](./img/page_23-01.jpg)
+
+
+
 
 ---
 
@@ -339,25 +293,21 @@ PODE CONHECER E ATÉ ESTUDAR E MORAR
 EM OUTROS PAÍSES!
 
 
-INGLES.indd 24
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:30
 
-![24](./img/page_24-01.jpg)
+
+
 
 ---
 
 [Página 25]
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 25
 
 
-26/09/2024 09:18:31
 
-![25](./img/page_25-01.jpg)
+
+
+
 
 ---
 
@@ -370,25 +320,21 @@ EMPREGO QUANDO
 CRESCER!
 
 
-INGLES.indd 26
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:33
 
-![26](./img/page_26-01.jpg)
+
+
 
 ---
 
 [Página 27]
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 27
 
 
-26/09/2024 09:18:34
 
-![27](./img/page_27-01.jpg)
+
+
+
 
 ---
 
@@ -400,73 +346,47 @@ COMO FRANCÊS, ESPANHOL E
 TUPI-GUARANI!
 
 
-INGLES.indd 28
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:36
 
-![28](./img/page_28-01.jpg)
+
+
 
 ---
 
 [Página 29]
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 29
 
 
-26/09/2024 09:18:37
 
-![29](./img/page_29-01.jpg)
+
+
+
 
 ---
 
 [Página 30]
-AR
-L
-A
-F
-OS S:
-M
-A
-V
-LÊ
-A
-G
-R
-N
-O
-I
-G
-A
-EM !
-U
-A
-H
-TC YE BYE
-B
+
+AGORA VAMOS FALAR TCHAU EM INGLÊS:
+
+BYE BYE
 
 
-INGLES.indd 30
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:39
 
-![30](./img/page_30-01.jpg)
+
+
+
 
 ---
 
 [Página 31]
-POR QUE APRENDER INGLÊS?
-
-INGLES.indd 31
 
 
-26/09/2024 09:18:41
 
-![31](./img/page_31-01.jpg)
+
+
+
 
 ---
 
@@ -486,7 +406,7 @@ FILHA, UM BULDOGUE E QUATRO
 TARTARUGAS.
 
 
-INGLES.indd 32
+---
 
 BYE BYE!
 
@@ -502,11 +422,10 @@ MEU LEMA PREFERIDO É: MUDE
 POR DENTRO, E VOCÊ PODERÁ
 MUDAR O MUNDO!
 
-POR QUE APRENDER INGLÊS?
 
-26/09/2024 09:18:42
 
-![32](./img/page_32-01.jpg)
+
+
 
 ---
 
