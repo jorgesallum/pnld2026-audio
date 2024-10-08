@@ -2,11 +2,11 @@
 
 Liberado para gravar áudio:
 --------------------------
-- [x] PNLD2026-001_MIOLO_audio.md
-- [x] PNLD2026-002_MIOLO_audio.md
+- [x] PNLD2026-001_MIOLO_audio.md			[Gravado] 		
+- [x] PNLD2026-002_MIOLO_audio.md			[Gravado]
 - [ ] PNLD2026-003_MIOLO_audio.md(++)
-- [ ] PNLD2026-004_MIOLO_audio.md(++)
-- [ ] PNLD2026-005_MIOLO_audio.md(++)
+- [ ] PNLD2026-004_MIOLO_audio.md(++)		[Gravado]
+- [ ] PNLD2026-005_MIOLO_audio.md(++)		[Gravado]
 - [x] PNLD2026-006_MIOLO_audio.md
 - [x] PNLD2026-007_MIOLO_audio.md
 - [x] PNLD2026-008_MIOLO_audio.md
@@ -44,3 +44,5 @@ Liberado para gravar áudio:
 (+)   Aguardar arquivos PDF
 (++)  Digitar manualmente
 (+++) Não fazer
+
+[Pasta de arquivos gravados](https://drive.google.com/drive/folders/16ckcKdK5DUIL6lDtOeobPPkq8Qu--hCe)
