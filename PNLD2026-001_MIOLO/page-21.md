@@ -1,0 +1,6 @@
+[Página 21]
+SERÁ QUE VOCÊ JÁ SABE QUEM EU SOU?
+MUITO PRAZER! O MEU NOME É PANDEIRO
+
+
+![21](./img/page_21-01.jpg)

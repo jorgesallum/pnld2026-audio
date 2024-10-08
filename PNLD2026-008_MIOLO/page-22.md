@@ -1,0 +1,8 @@
+[Página 22]
+MINDINHO
+
+O DEDO FEITO (PERFEITO)
+PRA CUTUCAR O NARIZ.
+
+
+![22](./img/page_22-01.jpg)

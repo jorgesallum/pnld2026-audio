@@ -1,0 +1,7 @@
+[Página 13]
+ONDE FOI PARAR O AVIÃO
+SE NÃO DECOLOU DE CÁ,
+NEM ATERRISSOU ACOLÁ?
+
+
+![13](./img/page_13-01.jpg)

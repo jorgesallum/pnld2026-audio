@@ -1,0 +1,5 @@
+[Página 30]
+AS BORBOLETAS BRINCAM COM AS FLORES,
+LOGO ALI NO JARDIM.
+
+![30](./img/page_30-01.jpg)

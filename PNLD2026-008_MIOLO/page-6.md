@@ -1,0 +1,10 @@
+[Página 6]
+PRAIA
+
+NO MAR CALMO.
+UM CARDUME DE PALAVRAS
+PASSOU
+PELO SEU ROSTO
+
+
+![6](./img/page_6-01.jpg)

@@ -1,0 +1,8 @@
+[Página 6]
+TENHO UM METAL
+QUE ME ABRAÇA
+TENHO UM METAL
+QUE ME ABRAÇA
+
+
+![6](./img/page_6-01.jpg)

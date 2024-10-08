@@ -1,0 +1,7 @@
+[Página 27]
+ALI, O PAI ACENANDO
+AO ENTRAR NO ÔNIBUS, TCHAU,
+ALI, O AVÔ E A VÓ NA TELA DO CELULAR
+MANDAM BEIJOS – ATÉ JÁ.
+
+![27](./img/page_27-01.jpg)

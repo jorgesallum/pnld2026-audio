@@ -1,0 +1,8 @@
+[Página 17]
+DESPERTADOR
+
+AGORA VOCÊ PROGRAMA NO CELULAR.
+E O GRITO DO GALO?
+
+
+![17](./img/page_17-01.jpg)
