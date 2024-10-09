@@ -7,7 +7,7 @@ Liberado para gravar áudio:
 - [ ] PNLD2026-003_MIOLO_audio.md(++)
 - [ ] PNLD2026-004_MIOLO_audio.md(++)		[Gravado]
 - [ ] PNLD2026-005_MIOLO_audio.md(++)		[Gravado]
-- [x] PNLD2026-006_MIOLO_audio.md
+- [ ] PNLD2026-006_MIOLO_audio.md(++)
 - [x] PNLD2026-007_MIOLO_audio.md
 - [x] PNLD2026-008_MIOLO_audio.md
 - [x] PNLD2026-009_MIOLO_audio.md
@@ -46,3 +46,14 @@ Liberado para gravar áudio:
 (+++) Não fazer
 
 [Pasta de arquivos gravados](https://drive.google.com/drive/folders/16ckcKdK5DUIL6lDtOeobPPkq8Qu--hCe)
+
+
+# ToDo
+
+- [ ] Juntar conteúdo com imagem (meld)
+- [ ] Subir imagens
+- [ ] Colocar scripts na pasta
+- [ ] Tratar imagens
+- [ ] Cropar imagens
+- [ ] Acrescentar livros faltantes
+- [ ] Transcrever livros faltantes

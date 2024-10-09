@@ -2,24 +2,24 @@
 
 O PANDEIRO
 
-![1](./img/page_1-01.jpg)
+![1](./img/page_1-01.jpg)
 
 COM ILUSTRAÇÕES DE LENA E MOISES CELEGATTI
 
 
 
 
-![2](./img/page_2-01.jpg)
+![2](./img/page_2-01.jpg)
 
 ---
 
 [Página 3]
-![3](./img/page_3-01.jpg)
+![3](./img/page_3-01.jpg)
 
 ---
 
 [Página 4]
-![4](./img/page_4-01.jpg)
+![4](./img/page_4-01.jpg)
 
 ---
 
@@ -32,7 +32,7 @@ QUE FAZ TUM - TÁ - TUM MANEIRO
 
 
 
-![5](./img/page_5-01.jpg)
+![5](./img/page_5-01.jpg)
 
 ---
 
@@ -43,7 +43,7 @@ TENHO UM METAL
 QUE ME ABRAÇA
 
 
-![6](./img/page_6-01.jpg)
+![6](./img/page_6-01.jpg)
 
 ---
 
@@ -61,7 +61,7 @@ CHORO
 COCO
 
 
-![7](./img/page_7-01.jpg)
+![7](./img/page_7-01.jpg)
 
 ---
 
@@ -73,7 +73,7 @@ CAPOEIRA
 
 FORRÓ
 
-![8](./img/page_8-01.jpg)
+![8](./img/page_8-01.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ E ATÉ CANTIGA
 DE BOIADEIRO
 
 
-![9](./img/page_9-01.jpg)
+![9](./img/page_9-01.jpg)
 
 ---
 
@@ -98,7 +98,7 @@ TENHO AO MEU REDOR UMA MADEIRA
 QUE ME ENVOLVE POR INTEIRO!
 
 
-![10](./img/page_10-01.jpg)
+![10](./img/page_10-01.jpg)
 
 ---
 
@@ -112,7 +112,7 @@ SÃO ALGUNS DOS MEUS
 COMPANHEIROS
 
 
-![11](./img/page_11-01.jpg)
+![11](./img/page_11-01.jpg)
 
 ---
 
@@ -126,7 +126,7 @@ ATÉ NENÉM
 FAZ PA-PUM
 LIGEIRO
 
-![12](./img/page_12-01.jpg)
+![12](./img/page_12-01.jpg)
 
 ---
 
@@ -149,7 +149,7 @@ E SOU TAMBÉM UM
 INSTRUMENTO BRASILEIRO!
 
 
-![13](./img/page_13-01.jpg)
+![13](./img/page_13-01.jpg)
 
 ---
 
@@ -159,7 +159,7 @@ E TAMBÉM BAIXINHO - SSSSS
 PRA NÃO ACORDAR O FESTEIRO
 
 
-![14](./img/page_14-01.jpg)
+![14](./img/page_14-01.jpg)
 
 ---
 
@@ -180,7 +180,7 @@ TERESINA, VITÓRIA
 E ATÉ JUAZEIRO
 
 
-![15](./img/page_15-01.jpg)
+![15](./img/page_15-01.jpg)
 
 ---
 
@@ -190,13 +190,13 @@ FAZEM XXXX E O PESSOAL
 DANÇA O DIA INTEIRO
 
 
-![16](./img/page_16-01.jpg)
+![16](./img/page_16-01.jpg)
 
 ---
 
 [Página 17]
 
-![17](./img/page_17-01.jpg)
+![17](./img/page_17-01.jpg)
 
 ---
 
@@ -206,13 +206,13 @@ JÁ SABE QUEM
 EU SOU?
 
 
-![18](./img/page_18-01.jpg)
+![18](./img/page_18-01.jpg)
 
 ---
 
 [Página 19]
 
-![19](./img/page_19-01.jpg)
+![19](./img/page_19-01.jpg)
 
 ---
 
@@ -222,7 +222,7 @@ O MEU NOME
 É PANDEIRO
 
 
-![20](./img/page_20-01.jpg)
+![20](./img/page_20-01.jpg)
 
 ---
 
@@ -231,14 +231,14 @@ SERÁ QUE VOCÊ JÁ SABE QUEM EU SOU?
 MUITO PRAZER! O MEU NOME É PANDEIRO
 
 
-![21](./img/page_21-01.jpg)
+![21](./img/page_21-01.jpg)
 
 ---
 
 [Página 22]
 
 
-![22](./img/page_22-01.jpg)
+![22](./img/page_22-01.jpg)
 
 ---
 
@@ -247,7 +247,7 @@ MUITO PRAZER! O MEU NOME É PANDEIRO
 
 
 
-![23](./img/page_23-01.jpg)
+![23](./img/page_23-01.jpg)
 
 ---
 
@@ -256,7 +256,7 @@ Esta obra foi composta em Helvética
 e impressa em offset 90 g/m2
 para a Acorde Produções Musicais LTDA.
 
-![24](./img/page_24-01.jpg)
+![24](./img/page_24-01.jpg)
 
 ---
 

@@ -10,6 +10,8 @@ Com ILUSTRAÇÕES DE RODRIGO VISCA
 
 RIO DE JANEIRO 2024
 
+![1](./img/page_1-01.jpg)
+
 ---
 
 [Página 2]
@@ -19,9 +21,13 @@ RIO DE JANEIRO 2024
 [Página 3]
 O CANTO DO ALI
 
+![3](./img/page_3-01.jpg)
+
 ---
 
 [Página 4]
+
+![4](./img/page_4-01.jpg)
 
 ---
 
@@ -30,6 +36,8 @@ ONDE ESTÁ A ÁRVORE
 QUE NÃO ESTÁ NEM AQUI,
 NEM LÁ?
 
+
+![5](./img/page_5-01.jpg)
 
 ---
 
@@ -57,15 +65,21 @@ NEM VOANDO, ONDE ESTÁ?
 
 [Página 10]
 
+![10](./img/page_10-01.jpg)
+
 ---
 
 [Página 11]
 ALI.
 
 
+![11](./img/page_11-01.jpg)
+
 ---
 
 [Página 12]
+
+![12](./img/page_12-01.jpg)
 
 ---
 
@@ -75,10 +89,14 @@ SE NÃO DECOLOU DE CÁ,
 NEM ATERRISSOU ACOLÁ?
 
 
+![13](./img/page_13-01.jpg)
+
 ---
 
 [Página 14]
 ALI.
+
+![14](./img/page_14-01.jpg)
 
 ---
 
@@ -88,14 +106,19 @@ NÃO ESTÁ PERTO,
 NEM LONGE,
 ONDE ELE ESTÁ?
 
+![15](./img/page_15-01.jpg)
+
 ---
 
 [Página 16]
 ALI.
 
+![16](./img/page_16-01.jpg)
+
 ---
 
-[Página 17
+[Página 17]
+![17](./img/page_17-01.jpg)
 
 ---
 
@@ -104,10 +127,14 @@ E A BOLA,
 A ROUPA,
 O CHINELO?
 
+![18](./img/page_18-01.jpg)
+
 ---
 
 [Página 19]
 ALI, ALI, ALI.
+
+![19](./img/page_19-01.jpg)
 
 ---
 
@@ -117,9 +144,12 @@ NEM NO CHÃO, AQUI,
 NEM NA PIA, LÁ,
 É ALI QUE ELA ESTÁ.
 
+![20](./img/page_20-01.jpg)
+
 ---
 
-[Página 21
+[Página 21]
+![21](./img/page_21-01.jpg)
 
 ---
 
@@ -127,9 +157,12 @@ NEM NA PIA, LÁ,
 AS CADEIRAS ESTÃO BEM ALI, AO REDOR DA MESA.
 JÁ O FOGÃO ESTÁ AAAAIIIIIÍ, Ó!
 
+![22](./img/page_22-01.jpg)
+
 ---
 
-[Página 23
+[Página 23]
+![23](./img/page_23-01.jpg)
 
 ---
 
@@ -140,15 +173,20 @@ PELO VÃO DA PORTA,
 OBSERVA O MENINO
 DORMIR.
 
+![24](./img/page_24-01.jpg)
+
 ---
 
 [Página 25]
 E ALI, EM CIMA DA MESINHA,
 O ABAJUR LILÁS DA MENINA.
 
+![25](./img/page_25-01.jpg)
+
 ---
 
-[Página 26
+[Página 26]
+![26](./img/page_26-01.jpg)
 
 ---
 
@@ -158,21 +196,28 @@ AO ENTRAR NO ÔNIBUS, TCHAU,
 ALI, O AVÔ E A VÓ NA TELA DO CELULAR
 MANDAM BEIJOS – ATÉ JÁ.
 
+![27](./img/page_27-01.jpg)
+
 ---
 
 [Página 28]
 AQUI A JANELA.
 ALI, A PAISAGEM.
 
+![28](./img/page_28-01.jpg)
+
 ---
 
-[Página 29
+[Página 29]
+![29](./img/page_29-01.jpg)
 
 ---
 
 [Página 30]
 AS BORBOLETAS BRINCAM COM AS FLORES,
 LOGO ALI NO JARDIM.
+
+![30](./img/page_30-01.jpg)
 
 ---
 
@@ -184,6 +229,8 @@ UM GATO.
 E O CACHORRO DO VIZINHO LATINDO, LATINDO, ALI.
 O PÉ DE MANGA E A LARANJEIRA – ALI E ALI – NO FUNDO DO QUINTAL.
 
+![31](./img/page_31-01.jpg)
+
 ---
 
 [Página 32]
@@ -193,9 +240,12 @@ ELE SE MOVE PARA ALI.
 SE A GENTE DÁ OUTRO PASSO,
 ELE SALTA DE NOVO PARA LÁ.
 
+![32](./img/page_32-01.jpg)
+
 ---
 
-[Página 33
+[Página 33]
+![33](./img/page_33-01.jpg)
 
 ---
 
@@ -211,6 +261,8 @@ O ALI ESTÁ ALI.
 COMO O SONHO.
 NAQUELE CANTO.
 
+![34](./img/page_34-01.jpg)
+
 ---
 
 [Página 35]
@@ -219,12 +271,16 @@ TEMOS QUE SAIR DAQUI.
 
 VAMOS?
 
+![35](./img/page_35-01.jpg)
+
 ---
 
 [Página 36]
 Esta obra foi composta em Unb Pro
 e impressa em offset 90 g/m2
 para a Editora Circuito LTDA
+
+![36](./img/page_36-01.jpg)
 
 ---
 
