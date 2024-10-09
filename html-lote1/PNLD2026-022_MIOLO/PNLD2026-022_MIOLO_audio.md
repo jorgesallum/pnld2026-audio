@@ -1,0 +1,296 @@
+[Página 1]
+![1](./img/page_1-01.jpg)
+
+De Cássia dos Santos
+Com Ilustrações de Liine Nacarate
+
+---
+[Página 2]
+![2](./img/page_2-01.jpg)
+
+---
+
+[Página 3]
+![3](./img/page_3-01.jpg)
+VOCÊ JÁ OUVIU FALAR DE INTELIGÊNCIA
+ARTIFICIAL? O QUE SERÁ ISSO? ALGUM
+APARELHO QUE NOS DEIXA MAIS
+INTELIGENTES?
+
+---
+
+[Página 4]
+![4](./img/page_4-01.jpg)
+NADA DISSO! INTELIGÊNCIA ARTIFICIAL
+É UM PROGRAMA DE COMPUTADOR
+QUE APRENDE COM O QUE
+ENSINAMOS PARA ELE.
+
+
+
+
+---
+
+[Página 5]
+![5](./img/page_5-01.jpg)
+PARA FACILITAR, A GENTE O CHAMA DE
+IA, QUE SÃO AS PRIMEIRAS LETRAS DE
+INTELIGÊNCIA E ARTIFICIAL.
+
+
+
+
+---
+
+[Página 6]
+![6](./img/page_6-01.jpg)
+A IA NÃO “PENSA” DE VERDADE, MAS
+FAZ AS COISAS TÃO RÁPIDO QUE É COMO
+SE PENSASSE.
+
+
+
+
+---
+
+[Página 7]
+![7](./img/page_7-01.jpg)
+
+
+
+---
+
+[Página 8]
+![8](./img/page_8-01.jpg)
+
+
+
+---
+
+[Página 9]
+![9](./img/page_9-01.jpg)
+COM ESSA RAPIDEZ TODA, A IA PODE
+CONVERSAR COM VOCÊ COMO SE FOSSE
+UMA PESSOA.
+ELA RESPONDE A QUALQUER PERGUNTA QUE
+VOCÊ FIZER E DÁ ATÉ OPINIÕES!
+
+
+
+
+---
+
+[Página 10]
+![10](./img/page_10-01.jpg)
+EXISTEM MUITOS TIPOS DE IA, CADA UMA COM
+SUAS HABILIDADES ESPECIAIS.
+ALGUMAS CONTROLAM CARROS QUE ANDAM
+SOZINHOS, SEM MOTORISTA!
+
+
+
+---
+
+[Página 11]
+![11](./img/page_11-01.jpg)
+
+
+---
+
+[Página 12]
+![12](./img/page_12-01.jpg)
+OUTRAS AJUDAM TRADUZIR
+O QUE A GENTE FALA, PARA
+CONVERSAR COM PESSOAS
+NO MUNDO TODO...
+
+
+
+---
+
+[Página 13]
+![13](./img/page_13-01.jpg)
+
+
+---
+
+[Página 14]
+![14](./img/page_14-01.jpg)
+ELA AJUDA MÉDICOS A IDENTIFICAR DOENÇAS...
+
+
+
+---
+
+[Página 15]
+![15](./img/page_15-01.jpg)
+...E PROFESSORES A DAR AULAS MELHORES.
+
+
+
+---
+
+[Página 16]
+![16](./img/page_16-01.jpg)
+
+
+---
+
+[Página 17]
+![17](./img/page_17-01.jpg)
+COM A IA, PODEMOS FAZER COISAS INCRÍVEIS, COMO
+EXPLORAR O ESPAÇO E IDENTIFICAR COMETAS E ASTEROIDES.
+
+
+
+---
+
+[Página 18]
+![18](./img/page_18-01.jpg)
+ELA AJUDA A PREVER AS
+MUDANÇAS NO CLIMA E
+OS PROBLEMAS NO MEIO
+AMBIENTE.
+
+
+
+---
+
+[Página 19]
+![19](./img/page_19-01.jpg)
+
+
+---
+
+[Página 20]
+![20](./img/page_20-01.jpg)
+
+
+
+---
+
+[Página 21]
+![21](./img/page_21-01.jpg)
+ELA PODE ATÉ FAZER DESENHOS E PINTURAS,
+MAS NÃO FICAM TÃO BONS COMO OS DE
+ARTISTAS DE VERDADE. SÃO IMITAÇÕES DE
+IMAGENS QUE JÁ EXISTEM.
+
+
+
+
+---
+
+[Página 22]
+![22](./img/page_22-01.jpg)
+A IA TAMBÉM ESCREVE HISTÓRIAS E POEMAS IMITANDO O
+ESTILO DE QUALQUER ESCRITOR.
+MAS É COMO OS DESENHOS, NÃO FICAM ASSIM TÃO BONS...
+
+
+
+---
+
+[Página 23]
+![23](./img/page_23-01.jpg)
+
+
+
+---
+
+[Página 24]
+![24](./img/page_24-01.jpg)
+A IA ESTÁ NO SEU DIA A DIA, MESMO
+QUE VOCÊ NÃO PERCEBA.
+NO CELULAR, NO COMPUTADOR, NA
+TV E ATÉ NOS SEUS BRINQUEDOS, A IA
+PODE ESTAR ESCONDIDA!
+
+
+
+
+---
+
+[Página 25]
+![25](./img/page_25-01.jpg)
+
+
+
+---
+
+[Página 26]
+![26](./img/page_26-01.jpg)
+
+
+
+---
+
+[Página 27]
+![27](./img/page_27-01.jpg)
+MAS SERÁ QUE AS MÁQUINAS UM DIA
+VÃO SUBSTITUIR OS HUMANOS?
+
+
+
+
+---
+
+[Página 28]
+![28](./img/page_28-01.jpg)
+NÃO SE PREOCUPE, SÓ O CÉREBRO HUMANO
+É CAPAZ DE SENTIR, AMAR E CRIAR.
+
+
+
+
+---
+
+[Página 29]
+![29](./img/page_29-01.jpg)
+
+
+
+---
+
+[Página 30]
+![30](./img/page_30-01.jpg)
+
+
+
+
+---
+
+[Página 31]
+![31](./img/page_31-01.jpg)
+
+FOMOS NÓS QUE CRIAMOS A IA PARA ELA
+NOS AJUDAR A SERMOS MAIS CRIATIVOS E A
+CONSTRUIR UM MUNDO MELHOR!
+
+
+
+---
+
+[Página 32]
+![32](./img/page_32-01.jpg)
+
+CÁSSIA DOS SANTOS É CIENTISTA NEGRA BRASILEIRA E ESCREVE PARA TODOS OS
+PÚBLICOS. ELA INVESTIGA UMA OBRA MUITO IMPORTANTE CHAMADA GRANDE
+SERTÃO: VEREDAS, QUE TEM PALAVRAS CRIATIVAS DEMAIS, UM UNIVERSO MUITO
+CURIOSO E CHEIO DE MAGIA! É UMA OBRA ENORME, RICA EM AVENTURAS…
+QUANDO ERA CRIANÇA SONHAVA EM SER GENTE GRANDE, AGORA QUE É GENTE
+GRANDE SONHA EM PODER COMPARTILHAR SUAS PESQUISAS COM O MUNDO
+INTEIRINHO… OU APENAS UMA PARTE DELE. ALÉM DE SER CIENTISTA, É MÃE DE UM
+GATO MUITO FOFO E GRANDE, O FREDERICO.
+
+LIINE NACARATE NASCEU EM 26 DE ABRIL DE 1998 EM RIO PRETO/MG. SEMPRE
+AMOU DESENHAR E ENCONTROU NA ILUSTRAÇÃO UMA FORMA DE DAR VIDA A SUA
+IMAGINAÇÃO. HOJE EM DIA BUSCA FAZER O MESMO PARA AS OUTRAS PESSOAS,
+ILUSTRANDO AS HISTÓRIAS MÁGICAS DOS OUTROS.
+
+
+
+
+
+---
+

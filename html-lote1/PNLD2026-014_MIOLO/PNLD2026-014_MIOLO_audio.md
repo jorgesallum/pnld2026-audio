@@ -1,46 +1,27 @@
 [Página 1]
+![1](./img/page_1-01.jpg)
+
 O QUE É
+DINHEIRO?
 
-?
 
-DINHEIRO
-
-TEXTO
-
+De
 ROGER TRIMER
 
-ILUSTRAÇÃO
+Com ILUSTRAÇÕEs de 
 
 RHEBECA MORAIS
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 1
-
-
-26/09/2024 09:03:20
-
-![1](./img/page_1-01.jpg)
 
 ---
 
 [Página 2]
-Copyright do texto © 2024 Roger Trimer
-Copyright das ilustrações © 2024 Rhebeca Morais
-
-Todos os direitos reservados à Saíra Editorial.
-
-
-DINHEIRO.indd 2
-
-O QUE É DINHEIRO?
-
-26/09/2024 09:03:20
-
-![2](./img/page_2-01.jpg)
+![2](./img/page_2-01.jpg)
 
 ---
 
 [Página 3]
+![3](./img/page_3-01.jpg)
+
 A GENTE USA DINHEIRO PARA
 TROCAR POR COISAS QUE A
 GENTE QUER.
@@ -48,108 +29,68 @@ SE A GENTE TEM DINHEIRO,
 PODE TROCAR POR COMIDA,
 BRINQUEDOS, SERVIÇOS E
 DIVERSÃO.
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 3
-
-
-26/09/2024 09:03:21
-
-![3](./img/page_3-01.jpg)
 
 ---
 
 [Página 4]
+![4](./img/page_4-01.jpg)
 
-DINHEIRO.indd 4
 
-O QUE É DINHEIRO?
-
-26/09/2024 09:03:22
-
-![4](./img/page_4-01.jpg)
 
 ---
 
 [Página 5]
+![5](./img/page_5-01.jpg)
+
 GENTE GRANDE TROCA SEU TRABALHO POR
 DINHEIRO E DEPOIS TROCA O DINHEIRO
 PELO TRABALHO DOS OUTROS OU POR
 PRODUTOS QUE OS OUTROS TÊM.
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 5
-
-
-26/09/2024 09:03:22
-
-![5](./img/page_5-01.jpg)
-
 ---
 
 [Página 6]
+![6](./img/page_6-01.jpg)
 
-DINHEIRO.indd 6
 
-O QUE É DINHEIRO?
-
-26/09/2024 09:03:23
-
-![6](./img/page_6-01.jpg)
 
 ---
 
 [Página 7]
+![7](./img/page_7-01.jpg)
+
 HÁ VÁRIAS FORMAS DE DINHEIRO: DE METAL, DE PAPEL E
 ATÉ DIGITAL. MAS NEM SEMPRE FOI ASSIM. ANTES DE O
 DINHEIRO EXISTIR, AS PESSOAS TROCAVAM UM PRODUTO
 ESCAMBO.
 PELO OUTRO – ERA O ESCAMBO
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 7
-
-
-26/09/2024 09:03:23
-
-![7](./img/page_7-01.jpg)
-
 ---
-
 [Página 8]
+
+![8](./img/page_8-01.jpg)
+
 NEM SEMPRE A TROCA ERA JUSTA...
 ERA DIFÍCIL TROCAR FEIJÃO POR UM PEIXE!
 
 
-DINHEIRO.indd 8
 
-O QUE É DINHEIRO?
-
-26/09/2024 09:03:24
-
-![8](./img/page_8-01.jpg)
 
 ---
 
 [Página 9]
+
+![9](./img/page_9-01.jpg)
+
 CADA PEIXE VALE UM SACO DE FEIJÃO, MAS ÀS
 VEZES QUEM TEM FEIJÃO PARA TROCAR NEM GOSTA
 DE PEIXE! E AGORA?
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 9
-
-
-26/09/2024 09:03:24
-
-![9](./img/page_9-01.jpg)
-
 ---
 
 [Página 10]
+![10](./img/page_10-01.jpg)
+
 E TINHA OUTRO PROBLEMA. SE TEM POUCO PEIXE
 E MUITO FEIJÃO, O PESCADOR VAI QUERER MAIS
 FEIJÃO POR CADA PEIXE; MAS SE A PESCA FOI BOA E
@@ -157,58 +98,32 @@ A COLHEITA FOI FRACA, O FAZENDEIRO VAI QUERER
 MAIS PEIXE PELO SEU FEIJÃO.
 
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 10
-
-26/09/2024 09:03:25
-
-![10](./img/page_10-01.jpg)
-
 ---
 
 [Página 11]
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 11
-
-
-26/09/2024 09:03:26
-
-![11](./img/page_11-01.jpg)
+![11](./img/page_11-01.jpg)
 
 ---
 
 [Página 12]
+![12](./img/page_12-01.jpg)
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 12
-
-26/09/2024 09:03:26
-
-![12](./img/page_12-01.jpg)
 
 ---
 
 [Página 13]
+![13](./img/page_13-01.jpg)
+
 ISSO SE CHAMA PREÇO, E O PREÇO VARIA. UM DIA UM SACO DE FEIJÃO
 VALE DOIS PEIXES, ÀS VEZES UM PEIXE VALE DOIS SACOS DE FEIJÃO.
 ASSIM, QUANDO TODO O MUNDO QUER UM PRODUTO, O PREÇO SOBE;
 SE NINGUÉM QUER, O PREÇO CAI.
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 13
-
-
-26/09/2024 09:03:27
-
-![13](./img/page_13-01.jpg)
-
 ---
 
 [Página 14]
+![14](./img/page_14-01.jpg)
+
 FOI PARA AJUDAR NESSAS TROCAS, QUE SE CHAMAM COMÉRCIO
 COMÉRCIO, QUE CRIAMOS
 MOEDAS. ATÉ HOJE, CHAMAMOS O DINHEIRO DE
@@ -216,87 +131,48 @@ O DINHEIRO, NA FORMA DE MOEDAS
 CADA PAÍS DE MOEDA, MESMO QUE ELE SEJA EM PAPEL.
 
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 14
-
-26/09/2024 09:03:27
-
-![14](./img/page_14-01.jpg)
-
 ---
 
 [Página 15]
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 15
-
-
-26/09/2024 09:03:28
-
-![15](./img/page_15-01.jpg)
+![15](./img/page_15-01.jpg)
 
 ---
 
 [Página 16]
+![16](./img/page_16-01.jpg)
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 16
-
-26/09/2024 09:03:29
-
-![16](./img/page_16-01.jpg)
 
 ---
 
 [Página 17]
+![17](./img/page_17-01.jpg)
+
 MAS MOEDAS PESAM NO BOLSO E
 OCUPAM MUITO ESPAÇO. POR ISSO,
 LOGO SURGIU O DINHEIRO DE PAPEL.
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 17
-
-
-26/09/2024 09:03:29
-
-![17](./img/page_17-01.jpg)
-
 ---
 
 [Página 18]
+![18](./img/page_18-01.jpg)
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 18
-
-26/09/2024 09:03:30
-
-![18](./img/page_18-01.jpg)
 
 ---
 
 [Página 19]
+![19](./img/page_19-01.jpg)
+
 E HOJE O DINHEIRO TAMBÉM É VIRTUAL,
 PODEMOS PAGAR AS COISAS COM CARTÃO DE
 CRÉDITO E ATÉ COM O CELULAR!
 COM QUALQUER TIPO DE DINHEIRO, A TROCA
 FICA MAIS FÁCIL E JUSTA.
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 19
-
-
-26/09/2024 09:03:30
-
-![19](./img/page_19-01.jpg)
-
 ---
 
 [Página 20]
+![20](./img/page_20-01.jpg)
+
 SE UMA PESSOA COMPRA UM
 LANCHE QUE CUSTA R$5,00 E
 DÁ UMA NOTA DE R$10,00, O
@@ -304,17 +180,11 @@ VENDEDOR LHE DEVOLVE R$5,00.
 ESSE É O TROCO!
 
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 20
-
-26/09/2024 09:03:31
-
-![20](./img/page_20-01.jpg)
-
 ---
 
 [Página 21]
+![21](./img/page_21-01.jpg)
+
 MAS O QUE FAZEMOS COM O
 TROCO? É MELHOR GASTAR OU
 GUARDAR?
@@ -323,79 +193,46 @@ BALAS... OU JUNTAR COM O TROCO
 DE OUTROS DIAS PARA COMPRAR
 ALGO MAIS LEGAL!
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 21
-
-
-26/09/2024 09:03:32
-
-![21](./img/page_21-01.jpg)
-
 ---
 
 [Página 22]
+![22](./img/page_22-01.jpg)
+
 ISSO SE CHAMA POUPAR
 POUPAR.
 GUARDAMOS HOJE PARA
 GARANTIR O FUTURO.
 
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 22
-
-26/09/2024 09:03:33
-
-![22](./img/page_22-01.jpg)
-
 ---
 
 [Página 23]
+![23](./img/page_23-01.jpg)
+
 MAS ONDE É SEGURO
 GUARDAR DINHEIRO? EM CASA,
 DEBAIXO DO COLCHÃO?
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 23
-
-
-26/09/2024 09:03:33
-
-![23](./img/page_23-01.jpg)
-
 ---
 
 [Página 24]
+![24](./img/page_24-01.jpg)
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 24
-
-26/09/2024 09:03:34
-
-![24](./img/page_24-01.jpg)
 
 ---
 
 [Página 25]
+![25](./img/page_25-01.jpg)
+
 NÃO, DINHEIRO FICA NO BANCO. NÃO O DE JARDIM, MAS UM
 PRÉDIO GRANDE ONDE TODO MUNDO GUARDA SEU DINHEIRO.
 ALI, ELE VAI SE ACUMULANDO, CRESCENDO, ATÉ A GENTE PODER
 COMPRAR ALGO MAIS IMPORTANTE!
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 25
-
-
-26/09/2024 09:03:34
-
-![25](./img/page_25-01.jpg)
-
 ---
 
 [Página 26]
+![26](./img/page_26-01.jpg)
+
 ALGUMAS PESSOAS TÊM MUITO
 DINHEIRO, MAS OUTRAS TÊM
 POUCO, PRINCIPALMENTE AS QUE
@@ -403,29 +240,16 @@ NÃO TIVERAM OPORTUNIDADE
 DE ESTUDAR.
 
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 26
-
-26/09/2024 09:03:35
-
-![26](./img/page_26-01.jpg)
-
 ---
 
 [Página 27]
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 27
-
-
-26/09/2024 09:03:35
-
-![27](./img/page_27-01.jpg)
+![27](./img/page_27-01.jpg)
 
 ---
 
 [Página 28]
+![28](./img/page_28-01.jpg)
+
 QUANDO UMA PESSOA TEM DINHEIRO,
 É POSSÍVEL INVESTIR
 INVESTIR. ABRIR UMA
@@ -433,17 +257,11 @@ LOJINHA, UM RESTAURANTE, PARA
 PODER GANHAR UM POUCO MAIS.
 
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 28
-
-26/09/2024 09:03:36
-
-![28](./img/page_28-01.jpg)
-
 ---
 
 [Página 29]
+![29](./img/page_29-01.jpg)
+
 E O INVESTIMENTO MAIS SEGURO
 É EM EDUCAÇÃO
 EDUCAÇÃO. QUANDO SE
@@ -451,50 +269,28 @@ ESTUDA BASTANTE, É POSSÍVEL
 GANHAR MAIS DINHEIRO E TER
 UMA VIDA MELHOR!
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 29
-
-
-26/09/2024 09:03:37
-
-![29](./img/page_29-01.jpg)
-
 ---
 
 [Página 30]
+![30](./img/page_30-01.jpg)
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 30
-
-26/09/2024 09:03:37
-
-![30](./img/page_30-01.jpg)
 
 ---
 
 [Página 31]
+![31](./img/page_31-01.jpg)
+
 AGORA QUE APRENDEU O QUE É DINHEIRO,
 APRENDA A USÁ-LO COM SABEDORIA, NUNCA
 GASTE MAIS DO QUE PODE!
 
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 31
-
-
-26/09/2024 09:03:38
-
-![31](./img/page_31-01.jpg)
-
 ---
 
 [Página 32]
+![32](./img/page_32-01.jpg)
 
-ROGER TRIMER
 
-RHEBECA MORAIS
+Sobre ROGER TRIMER:
 
 SEMPRE GOSTEI MUITO DE LER
 LIVROS E QUADRINHOS E SEMPRE
@@ -509,6 +305,8 @@ E GOSTEI MUITO. MORO COM
 MINHA FILHA, UM BULDOGUE E
 QUATRO TARTARUGAS.
 
+Sobre RHEBECA MORAIS:
+
 EU AMAVA RABISCAR E PINTAR
 QUANDO CRIANÇA MAS PAREI
 QUANDO FUI CRESCENDO POR
@@ -521,14 +319,6 @@ QUADRINHOS! ENTÃO RESOLVI
 TENTAR. HOJE EU TAMBÉM
 TRABALHO COM VIDEOGAMES, E
 AMO O QUE FAÇO.
-
-O QUE É DINHEIRO?
-
-DINHEIRO.indd 32
-
-26/09/2024 09:03:39
-
-![32](./img/page_32-01.jpg)
 
 ---
 

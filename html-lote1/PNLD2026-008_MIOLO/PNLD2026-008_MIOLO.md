@@ -21,12 +21,12 @@ RIO de JANEIRO 2024
 [Página 3]
 DEZ PEQUENAS HISTÓRIAS
 
-![3](./img/page_3-01.jpg)
+![3](./img/page_3-01.jpg)
 
 ---
 
 [Página 4]
-![4](./img/page_4-01.jpg)
+![4](./img/page_4-01.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ FUI LENDO.
 QUANDO VI, ANOITECIA.
 
 
-![5](./img/page_5-01.jpg)
+![5](./img/page_5-01.jpg)
 
 ---
 
@@ -52,19 +52,19 @@ PASSOU
 PELO SEU ROSTO
 
 
-![6](./img/page_6-01.jpg)
+![6](./img/page_6-01.jpg)
 
 ---
 
 [Página 7]
 
-![7](./img/page_7-01.jpg)
+![7](./img/page_7-01.jpg)
 
 ---
 
 [Página 8]
 
-![8](./img/page_8-01.jpg)
+![8](./img/page_8-01.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ ACONTECIMENTO
 AS CRIANÇAS ATRAVESARAM A SALA CORRENDO.
 RASTRO DE ESPERANÇA.
 
-![9](./img/page_9-01.jpg)
+![9](./img/page_9-01.jpg)
 
 ---
 
@@ -87,31 +87,31 @@ NA GARAGEM DE CASA.
 À ESPERA DA PRÓXIMA AVENTURA.
 
 
-![10](./img/page_10-01.jpg)
+![10](./img/page_10-01.jpg)
 
 ---
 
 [Página 11]
 
-![11](./img/page_11-01.jpg)
+![11](./img/page_11-01.jpg)
 
 ---
 
 [Página 12]
 
-![12](./img/page_12-01.jpg)
+![12](./img/page_12-01.jpg)
 
 ---
 
 [Página 13]
 
-![13](./img/page_13-01.jpg)
+![13](./img/page_13-01.jpg)
 
 ---
 
 [Página 14]
 
-![14](./img/page_14-01.jpg)
+![14](./img/page_14-01.jpg)
 
 ---
 
@@ -122,13 +122,13 @@ O BANHO DO MAR
 É NO SOL
 
 
-![15](./img/page_15-01.jpg)
+![15](./img/page_15-01.jpg)
 
 ---
 
 [Página 16]
 
-![16](./img/page_16-01.jpg)
+![16](./img/page_16-01.jpg)
 
 ---
 
@@ -139,7 +139,7 @@ AGORA VOCÊ PROGRAMA NO CELULAR.
 E O GRITO DO GALO?
 
 
-![17](./img/page_17-01.jpg)
+![17](./img/page_17-01.jpg)
 
 ---
 
@@ -150,13 +150,13 @@ O MENINO APRESSADINHO
 DESCEU A TODA VELOCIDADE,
 CAIU DE BUNDA NO CHÃO.
 
-![18](./img/page_18-01.jpg)
+![18](./img/page_18-01.jpg)
 
 ---
 
 [Página 19]
 
-![19](./img/page_19-01.jpg)
+![19](./img/page_19-01.jpg)
 
 ---
 
@@ -166,13 +166,13 @@ LÁPIS DE COR
 O QUE SERIA DO AZUL
 SE O CÉU FOSSE COR DE ROSA.
 
-![20](./img/page_20-01.jpg)
+![20](./img/page_20-01.jpg)
 
 ---
 
 [Página 21]
 
-![21](./img/page_21-01.jpg)
+![21](./img/page_21-01.jpg)
 
 ---
 
@@ -183,13 +183,13 @@ O DEDO FEITO (PERFEITO)
 PRA CUTUCAR O NARIZ.
 
 
-![22](./img/page_22-01.jpg)
+![22](./img/page_22-01.jpg)
 
 ---
 
 [Página 23]
 
-![23](./img/page_23-01.jpg)
+![23](./img/page_23-01.jpg)
 
 ---
 
@@ -197,7 +197,7 @@ PRA CUTUCAR O NARIZ.
 Esta obra foi composta em Life is Good e Baskerville
 e impressa em offset 90 g/m2 para a Itália Edições
 
-![24](./img/page_24-01.jpg)
+![24](./img/page_24-01.jpg)
 
 ---
 
