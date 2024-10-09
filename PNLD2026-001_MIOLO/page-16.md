@@ -1,7 +1,0 @@
-[Página 16]
-AS PEQUENAS PLATINELAS
-FAZEM XXXX E O PESSOAL
-DANÇA O DIA INTEIRO
-
-
-![16](./img/page_16-01.jpg)

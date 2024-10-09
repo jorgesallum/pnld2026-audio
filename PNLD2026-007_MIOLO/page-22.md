@@ -1,5 +1,0 @@
-[Página 22]
-AS CADEIRAS ESTÃO BEM ALI, AO REDOR DA MESA.
-JÁ O FOGÃO ESTÁ AAAAIIIIIÍ, Ó!
-
-![22](./img/page_22-01.jpg)

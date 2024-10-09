@@ -1,8 +1,0 @@
-[Página 24]
-E O QUE MAIS ESTÁ ALI?
-A MÃE QUE,
-PELO VÃO DA PORTA,
-OBSERVA O MENINO
-DORMIR.
-
-![24](./img/page_24-01.jpg)

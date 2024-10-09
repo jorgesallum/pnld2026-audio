@@ -1,7 +1,0 @@
-[Página 14]
-SEI FAZER SOM ALTO - TÁ
-E TAMBÉM BAIXINHO - SSSSS
-PRA NÃO ACORDAR O FESTEIRO
-
-
-![14](./img/page_14-01.jpg)
