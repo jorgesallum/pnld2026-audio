@@ -1,4 +1,6 @@
 [Página 1]
+![18](./img/page18-01.jpg)
+
 
 FOGO NO PANTANAL:
 a onça-pintada está machucada
@@ -11,10 +13,14 @@ Com ilustrações de Cecília Saro
 ---
 
 [Página 2]
+![28](./img/page28-01.jpg)
+
 
 ---
 
 [Página 3]
+![38](./img/page38-01.jpg)
+
 Moro no Pantanal,
 Sou uma fêmea de onça-pintada,
 
@@ -24,6 +30,8 @@ Sou uma fêmea de onça-pintada,
 ---
 
 [Página 4]
+![48](./img/page48-01.jpg)
+
 Sou um animal forte e valente,
 Mas hoje estou machucada.
 
@@ -33,6 +41,8 @@ Mas hoje estou machucada.
 ---
 
 [Página 5]
+![58](./img/page58-01.jpg)
+
 Eu queimei minhas patinhas,
 Estou me sentindo muito mal
 
@@ -44,6 +54,8 @@ Para me levar ao hospital
 ---
 
 [Página 6]
+![68](./img/page68-01.jpg)
+
 Me escondi em uma fazenda
 E vou contar o que aconteceu.
 
@@ -53,6 +65,8 @@ E vou contar o que aconteceu.
 ---
 
 [Página 7]
+![78](./img/page78-01.jpg)
+
 A minha história começa triste,
 Mas, você vai ver que, no fim,
 O amor venceu.
@@ -63,6 +77,8 @@ O amor venceu.
 ---
 
 [Página 8]
+![88](./img/page88-01.jpg)
+
 O Pantanal sempre foi muito bonito,
 Com muitas plantas e animais
 
@@ -72,6 +88,8 @@ Com muitas plantas e animais
 ---
 
 [Página 9]
+![98](./img/page98-01.jpg)
+
 Todos preservavam a floresta e,
 juntos, vivíamos em paz.
 
@@ -81,6 +99,8 @@ juntos, vivíamos em paz.
 ---
 
 [Página 10]
+![10](./img/page_10-01.jpg)
+
 Mas os anos foram se passando,
 E a água desapareceu.
 
@@ -92,6 +112,8 @@ O rio nunca mais correu.
 ---
 
 [Página 11]
+![11](./img/page_11-01.jpg)
+
 Sem os rios e sem a chuva
 A terra foi secando.
 
@@ -103,6 +125,8 @@ Sinto que o clima está mudando.
 ---
 
 [Página 12]
+![12](./img/page_12-01.jpg)
+
 E agora estamos com muito medo
 Porque tem fogo por todo lado,
 
@@ -112,6 +136,8 @@ Porque tem fogo por todo lado,
 ---
 
 [Página 13]
+![13](./img/page_13-01.jpg)
+
 E além de mim, eu fiquei sabendo,
 Que tem outros bichos machucados.
 
@@ -121,6 +147,8 @@ Que tem outros bichos machucados.
 ---
 
 [Página 14]
+![14](./img/page_14-01.jpg)
+
 As pessoas vão precisar ter mais cuidado,
 Não podem colocar fogo na floresta.
 
@@ -130,6 +158,8 @@ Não podem colocar fogo na floresta.
 ---
 
 [Página 15]
+![15](./img/page_15-01.jpg)
+
 Ele espalha rápido e destrói tudo!
 Olhe o pouco que nos resta.
 
@@ -139,6 +169,8 @@ Olhe o pouco que nos resta.
 ---
 
 [Página 16]
+![16](./img/page_16-01.jpg)
+
 Agora chegou o meu resgate,
 Preciso me despedir.
 
@@ -150,6 +182,8 @@ Não termina por aqui!
 ---
 
 [Página 17]
+![17](./img/page_17-01.jpg)
+
 O mundo todo vai ter que se unir
 Para proteger o Pantanal,
 
@@ -159,6 +193,8 @@ Para proteger o Pantanal,
 ---
 
 [Página 18]
+![18](./img/page_18-01.jpg)
+
 Vamos juntar crianças e adultos
 Nesta missão especial!
 
@@ -168,6 +204,8 @@ Nesta missão especial!
 ---
 
 [Página 19]
+![19](./img/page_19-01.jpg)
+
 Vamos replantar as matas
 E trazer de volta os rios,
 
@@ -179,6 +217,8 @@ Este será o nosso desafio!
 ---
 
 [Página 20]
+![20](./img/page_20-01.jpg)
+
 Vamos proteger a natureza
 E salvar as onças-pintadas.
 
@@ -188,6 +228,8 @@ E salvar as onças-pintadas.
 ---
 
 [Página 21]
+![21](./img/page_21-01.jpg)
+
 Eu conto com você
 Para proteger a bicharada!
 
@@ -197,6 +239,8 @@ Para proteger a bicharada!
 ---
 
 [Página 22]
+![22](./img/page_22-01.jpg)
+
 o que aconteceu com a amanaci?
 Epílogo por Daniela Gianni
 Coordenadora de Projetos e Atividades
@@ -235,6 +279,8 @@ que merecem. Será que esse lugar existe?
 ---
 
 [Página 23]
+![23](./img/page_23-01.jpg)
+
 AUTORA
 Luciana Leite é bióloga, feminista, ativista ambiental e uma
 eterna sonhadora. Em 2020, foi voluntária no combate aos
@@ -266,6 +312,8 @@ nossa biodiversidade.
 ---
 
 [Página 24]
+![24](./img/page_24-01.jpg)
+
 conheça os bichos da nossa história:
 
 Arara - Azul
@@ -295,6 +343,8 @@ Panthera onca
 ---
 
 [Página 25]
+![25](./img/page_25-01.jpg)
+
 
 
 
