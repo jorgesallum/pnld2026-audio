@@ -1,7 +1,0 @@
-[Página 12]
-NA NATAÇÃO, BRONTOSSAULO É CAMPEÃO.
-– VEM, DINA! PULA NA PISCINA!
-SEM ALVOROÇO. A ÁGUA BATE NO PESCOÇO
-
-
-![12](./img/page_12-01.jpg)
