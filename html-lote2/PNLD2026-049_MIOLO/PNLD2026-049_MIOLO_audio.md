@@ -1,5 +1,5 @@
 [Página 1]
-![1](./img/page_1-01.jpg)
+![1](./img/page_0001.jpg)
 
 ---
 
@@ -13,9 +13,7 @@
 PRAZER,
 AMAZÔNIA
 
-De MARINA HIROTA E CLAUDIA TIETSCHE
-
-![3](./img/page_3-01.jpg)
+![3](./img/page_0003.jpg)
 
 ---
 
@@ -23,7 +21,7 @@ De MARINA HIROTA E CLAUDIA TIETSCHE
 PRAZER,
 
 
-![4](./img/page_4-01.jpg)
+![4](./img/page_0004.jpg)
 
 ---
 
@@ -31,7 +29,8 @@ PRAZER,
 MEU NOME É AMAZÔNIA!
 
 
-![5](./img/page_5-01.jpg)
+
+![5](./img/page_0005.jpg)
 
 ---
 
@@ -40,7 +39,7 @@ SOU UMA FLORESTA
 BELA E DIVERSA:
 
 
-![6](./img/page_6-01.jpg)
+![6](./img/page_0006.jpg)
 
 ---
 
@@ -52,7 +51,7 @@ E FLORES…
 SÃO TANTAS FORMAS, SONS E CORES!
 
 
-![7](./img/page_7-01.jpg)
+![7](./img/page_0007.jpg)
 
 ---
 
@@ -60,7 +59,7 @@ SÃO TANTAS FORMAS, SONS E CORES!
 TUDO FUNCIONANDO EM CONJUNTO,
 
 
-![8](./img/page_8-01.jpg)
+![8](./img/page_0008.jpg)
 
 ---
 
@@ -78,7 +77,7 @@ A ÁGUA
 EM ABUNDÂNCIA ME BANHA!
 
 
-![10](./img/page_10-01.jpg)
+![10](./img/page_0010.jpg)
 
 ---
 
@@ -88,7 +87,7 @@ E LAGOS, SOBEM AOS CÉUS COM
 O CALOR DO SOL.
 
 
-![11](./img/page_11-01.jpg)
+![11](./img/page_0011.jpg)
 
 ---
 
@@ -96,7 +95,7 @@ O CALOR DO SOL.
 JUNTAM-SE EM NUVENS,
 
 
-![12](./img/page_12-01.jpg)
+![12](./img/page_0012.jpg)
 
 ---
 
@@ -104,7 +103,7 @@ JUNTAM-SE EM NUVENS,
 PARA LOGO DELAS PULAREM
 
 
-![13](./img/page_13-01.jpg)
+![13](./img/page_0013.jpg)
 
 ---
 
@@ -114,7 +113,7 @@ AO SOLO,
 		AOS ANIMAIS,
 
 
-![14](./img/page_14-01.jpg)
+![14](./img/page_0014.jpg)
 
 ---
 
@@ -122,7 +121,7 @@ AO SOLO,
 ATÉ RETORNAREM AOS SAGRADOS RIOS!
 
 
-![15](./img/page_15-01.jpg)
+![15](./img/page_0015.jpg)
 
 ---
 
@@ -132,7 +131,7 @@ DE ÁGUA SUBINDO
 E DESCENDO,
 
 
-![16](./img/page_16-01.jpg)
+![16](./img/page_0016.jpg)
 
 ---
 
@@ -144,7 +143,7 @@ ME ENCHEM DE SUPERPODERES PARA
 CUIDAR DO CLIMA!
 
 
-![17](./img/page_17-01.jpg)
+![17](./img/page_0017.jpg)
 
 ---
 
@@ -152,7 +151,7 @@ CUIDAR DO CLIMA!
 MESMO SENDO UMA FLORESTA GIGANTE,
 
 
-![18](./img/page_18-01.jpg)
+![18](./img/page_0018.jpg)
 
 ---
 
@@ -162,7 +161,7 @@ POSSÍVEL, DE TODO O LUGAR
 DO PLANETA.
 
 
-![19](./img/page_19-01.jpg)
+![19](./img/page_0019.jpg)
 
 ---
 
@@ -170,7 +169,7 @@ DO PLANETA.
 COMO CRIANÇAS, VOCÊS SABEM SER NATUREZA!
 
 
-![20](./img/page_20-01.jpg)
+![20](./img/page_0020.jpg)
 
 ---
 
@@ -179,7 +178,7 @@ SÃO CAPAZES DE SE PERDER
 NO MOVIMENTO DAS ASAS DE UMA BORBOLETA
 
 
-![21](./img/page_21-01.jpg)
+![21](./img/page_0021.jpg)
 
 ---
 
@@ -188,7 +187,7 @@ DE SUBIR NO GALHO MAIS ALTO
 DE UMA ÁRVORE,
 
 
-![22](./img/page_22-01.jpg)
+![22](./img/page_0022.jpg)
 
 ---
 
@@ -198,7 +197,7 @@ OU OLHAR MAIS DE PERTO
 UM NINHO DE PASSARINHO...
 
 
-![23](./img/page_23-01.jpg)
+![23](./img/page_0023.jpg)
 
 ---
 
