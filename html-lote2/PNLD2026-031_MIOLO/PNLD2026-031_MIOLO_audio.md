@@ -1,48 +1,11 @@
 [Página 1]
-![1](./img/page_1-01.jpg)
+![1](./img/page_1-01.jpg)
 
 ---
 
 [Página 2]
-Copyright do texto e das ilustrações © 2024 Jarbas Domingos
-Direção e curadoria
-Gestão editorial
-Diagramação
-Revisão
 
-Fábia Alvim
-Felipe Augusto Neves Silva
-Luisa Marcelino
-Dênis Lacerta
-
-Dados Internacionais de Catalogação na Publicação (CIP) de acordo com ISBD
-K19c
-
-Kasburg, Denise
-
-		
-		
-		
-
-Crescer / Denise Kasburg ; ilustrado por Liine Nacarate. São Paulo : Saíra Editorial, 2024.
-32 p. : il. ; 24cm x 24cm.
-
-		ISBN: 978-65-81295-80-6
-1. Literatura infantil. I. Nacarate, Liine. II. Título.
-CDD 028.5
-CDU 82-93
-
-2024-2939
-Elaborado por Vagner Rodolfo da Silva - CRB-8/9410
-Índice para catálogo sistemático:
-1. Literatura infantil 028.5
-2. Literatura infantil 82-93
-Todos os direitos reservados à Mais e Melhores
-instagram.com/acorde_editorial
-Rua Sá Viana, 136, 30
-20540-260 – Rio de Janeiro, RJ
-
-![2](./img/page_2-01.jpg)
+![2](./img/page_2-01.jpg)
 
 ---
 
@@ -55,7 +18,7 @@ QUE DOS OUTROS É DIFERENTE.
 DEDICO A TODO O MUNDO,
 POIS ASSIM É TODA GENTE.
 
-![3](./img/page_3-01.jpg)
+![3](./img/page_3-01.jpg)
 
 ---
 
@@ -64,7 +27,7 @@ NO BAIRRO JURÁSSICO, NA ESCOLA DO LAGO,
 TODO O MUNDO É FERA EM ALGO.
 
 
-![4](./img/page_4-01.jpg)
+![4](./img/page_4-01.jpg)
 
 ---
 
@@ -73,7 +36,7 @@ A PEQUENA TIRANOSSAURO CHAMADA DINA
 SE DESPEDE DOS PAIS LÁ NA ESQUINA.
 
 
-![5](./img/page_5-01.jpg)
+![5](./img/page_5-01.jpg)
 
 ---
 
@@ -82,7 +45,7 @@ PASSOS LENTOS, “ACELERANDO ” O CORAÇÃO,
 DINA CAMINHA EM DIREÇÃO AO PORTÃO.
 
 
-![6](./img/page_6-01.jpg)
+![6](./img/page_6-01.jpg)
 
 ---
 
@@ -91,7 +54,7 @@ OLHA PARA A FRENTE E RESPIRA FUNDO.
 NÃO QUER SER DIFERENTE DE TODO O MUNDO.
 
 
-![7](./img/page_7-01.jpg)
+![7](./img/page_7-01.jpg)
 
 ---
 
@@ -101,25 +64,25 @@ NA ESCOLA, CAROLA É FERA EM JOGAR BOLA.
 DOU UM BICUDO E VOCÊ AGARRA COM TUDO.
 
 
-![8](./img/page_8-01.jpg)
+![8](./img/page_8-01.jpg)
 
 ---
 
 [Página 9]
 
-![9](./img/page_9-01.jpg)
+![9](./img/page_9-01.jpg)
 
 ---
 
 [Página 10]
 
-![10](./img/page_10-01.jpg)
+![10](./img/page_10-01.jpg)
 
 ---
 
 [Página 11]
 
-![11](./img/page_11-01.jpg)
+![11](./img/page_11-01.jpg)
 
 ---
 
@@ -129,25 +92,25 @@ NA NATAÇÃO, BRONTOSSAULO É CAMPEÃO.
 SEM ALVOROÇO. A ÁGUA BATE NO PESCOÇO
 
 
-![12](./img/page_12-01.jpg)
+![12](./img/page_12-01.jpg)
 
 ---
 
 [Página 13]
 
-![13](./img/page_13-01.jpg)
+![13](./img/page_13-01.jpg)
 
 ---
 
 [Página 14]
 
-![14](./img/page_14-01.jpg)
+![14](./img/page_14-01.jpg)
 
 ---
 
 [Página 15]
 
-![15](./img/page_15-01.jpg)
+![15](./img/page_15-01.jpg)
 
 ---
 
@@ -157,25 +120,25 @@ DINOEL É MUSICAL. MUITO FERA NO INSTRUMENTAL.
 SE EU POSSO, TU PODES. UMA MÃO NA CORDA, OUTRA NOS ACORDES.
 
 
-![16](./img/page_16-01.jpg)
+![16](./img/page_16-01.jpg)
 
 ---
 
 [Página 17]
 
-![17](./img/page_17-01.jpg)
+![17](./img/page_17-01.jpg)
 
 ---
 
 [Página 18]
 
-![18](./img/page_18-01.jpg)
+![18](./img/page_18-01.jpg)
 
 ---
 
 [Página 19]
 
-![19](./img/page_19-01.jpg)
+![19](./img/page_19-01.jpg)
 
 ---
 
@@ -184,7 +147,7 @@ JÁ TRICERATRIZ GOSTA DE AGITAR.
 É FERA NA ARTE DE DANÇAR.
 
 
-![20](./img/page_20-01.jpg)
+![20](./img/page_20-01.jpg)
 
 ---
 
@@ -193,19 +156,19 @@ JÁ TRICERATRIZ GOSTA DE AGITAR.
 DOU UM GIRO NO CHÃO E ME EQUILIBRO NUMA SÓ MÃO.
 
 
-![21](./img/page_21-01.jpg)
+![21](./img/page_21-01.jpg)
 
 ---
 
 [Página 22]
 
-![22](./img/page_22-01.jpg)
+![22](./img/page_22-01.jpg)
 
 ---
 
 [Página 23]
 
-![23](./img/page_23-01.jpg)
+![23](./img/page_23-01.jpg)
 
 ---
 
@@ -215,19 +178,19 @@ EXPLICOU, COM O PINCEL, CADA MOVIMENTO.
 DINA, SORRINDO, FINGIU ENTENDIMENTO.
 
 
-![24](./img/page_24-01.jpg)
+![24](./img/page_24-01.jpg)
 
 ---
 
 [Página 25]
 
-![25](./img/page_25-01.jpg)
+![25](./img/page_25-01.jpg)
 
 ---
 
 [Página 26]
 
-![26](./img/page_26-01.jpg)
+![26](./img/page_26-01.jpg)
 
 ---
 
@@ -236,7 +199,7 @@ O BRACINHO CURTO NÃO ALCANÇOU A TELA...
 SUJOU SUA ROUPINHA DE AQUARELA...
 
 
-![27](./img/page_27-01.jpg)
+![27](./img/page_27-01.jpg)
 
 ---
 
@@ -247,7 +210,7 @@ BRONTOSSAULO, DE ROUPÃO, CORREU PARA A CONDUÇÃO.
 DINOEL, COM O VIOLÃO, CANTAROLOU UMA CANÇÃO.
 
 
-![28](./img/page_28-01.jpg)
+![28](./img/page_28-01.jpg)
 
 ---
 
@@ -257,7 +220,7 @@ JUSSAURA, COM SUA TELA, SE DESPEDIU PELA JANELA.
 DINA SEUS PAIS ESPERA, SEM SABER NO QUE É FERA...
 
 
-![29](./img/page_29-01.jpg)
+![29](./img/page_29-01.jpg)
 
 ---
 
@@ -268,7 +231,7 @@ DINA CHEGA ACENANDO COM SEU DOCE TCHAU MIÚDO.
 MAS A DIFERENÇA NAQUELE DIA ESTAVA EM TUDO.
 
 
-![30](./img/page_30-01.jpg)
+![30](./img/page_30-01.jpg)
 
 ---
 
@@ -278,7 +241,7 @@ NINGUÉM ABRIU A ESCOLA. ESTÁ FECHADO O PORTÃO.
 CAIU NO BUEIRO A CHAVE, UMA PEQUENA BRECHA NO CHÃO.
 
 
-![31](./img/page_31-01.jpg)
+![31](./img/page_31-01.jpg)
 
 ---
 
@@ -287,7 +250,7 @@ CAROLA USOU VARETA E COLA, MAS FRACASSOU.
 BRONTOSSAULO, POR CAUSA DE UM CALO, SUA VEZ PASSOU.
 
 
-![32](./img/page_32-01.jpg)
+![32](./img/page_32-01.jpg)
 
 ---
 
@@ -297,7 +260,7 @@ JUSSAURA, SEM UMA IDEIA CLARA, NÃO ARRISCOU.
 TRICERATRIZ, SEMPRE MUITO FELIZ, NÃO SE IMPORTOU.
 
 
-![33](./img/page_33-01.jpg)
+![33](./img/page_33-01.jpg)
 
 ---
 
@@ -308,7 +271,7 @@ COM MUITA CONCENTRAÇÃO, DEITOU NO CHÃO...
 RAPIDINHO LEVANTOU, COM A CHAVE NA MÃO.
 
 
-![34](./img/page_34-01.jpg)
+![34](./img/page_34-01.jpg)
 
 ---
 
@@ -322,7 +285,7 @@ E FOI AÍ QUE ELA PERCEBEU ENTÃO
 QUE NAQUELA ESCOLA NÃO ERA EXCEÇÃO!
 
 
-![35](./img/page_35-01.jpg)
+![35](./img/page_35-01.jpg)
 
 ---
 
@@ -330,7 +293,7 @@ QUE NAQUELA ESCOLA NÃO ERA EXCEÇÃO!
 NO FUTEBOL, DINA APRENDEU A CABECEAR.
 
 
-![36](./img/page_36-01.jpg)
+![36](./img/page_36-01.jpg)
 
 ---
 
@@ -338,7 +301,7 @@ NO FUTEBOL, DINA APRENDEU A CABECEAR.
 BATENDO PERNINHAS, CONSEGUIU NADAR.
 
 
-![37](./img/page_37-01.jpg)
+![37](./img/page_37-01.jpg)
 
 ---
 
@@ -346,7 +309,7 @@ BATENDO PERNINHAS, CONSEGUIU NADAR.
 MUITAS MÚSICAS APRENDEU A CANTAR.
 
 
-![38](./img/page_38-01.jpg)
+![38](./img/page_38-01.jpg)
 
 ---
 
@@ -354,7 +317,7 @@ MUITAS MÚSICAS APRENDEU A CANTAR.
 NUM TIPO DE DANÇA, APRENDEU A SAPATEAR.
 
 
-![39](./img/page_39-01.jpg)
+![39](./img/page_39-01.jpg)
 
 ---
 
@@ -362,7 +325,7 @@ NUM TIPO DE DANÇA, APRENDEU A SAPATEAR.
 COM O PINCEL NA BOCA, SOUBE SUA ARTE EXPRESSAR.
 
 
-![40](./img/page_40-01.jpg)
+![40](./img/page_40-01.jpg)
 
 ---
 
@@ -371,7 +334,7 @@ MAS FOI EM NÃO DESISTIR E SEMPRE TENTAR
 QUE DINA SE TORNOU REALMENTE FERA!
 
 
-![41](./img/page_41-01.jpg)
+![41](./img/page_41-01.jpg)
 
 ---
 
@@ -379,7 +342,7 @@ QUE DINA SE TORNOU REALMENTE FERA!
 DINA APRENDEU QUE TODO O MUNDO TEM LIMITE.
 
 
-![42](./img/page_42-01.jpg)
+![42](./img/page_42-01.jpg)
 
 ---
 
@@ -387,25 +350,27 @@ DINA APRENDEU QUE TODO O MUNDO TEM LIMITE.
 SE, DE UM JEITO NÃO DÁ, OUTRO JEITO EXISTE.
 
 
-![43](./img/page_43-01.jpg)
+![43](./img/page_43-01.jpg)
 
 ---
 
 [Página 44]
 
-![44](./img/page_44-01.jpg)
+![44](./img/page_44-01.jpg)
 
 ---
 
 [Página 45]
 
-![45](./img/page_45-01.jpg)
+![45](./img/page_45-01.jpg)
 
 ---
 
 [Página 46]
+
 Jarbas Domingos
 www.jarbasdomingos.com
+
 É PAI, CARTUNISTA, ILUSTRADOR, DESIGNER, AUTOR
 DE HISTÓRIAS INFANTIS E QUADRINHOS.
 TRABALHA COMO ARTISTA GRÁFICO DESDE 1998.
@@ -415,13 +380,13 @@ NACIONAIS E INTERNACIONAIS, COMO O WORLD
 PRESS CARTOON, DE PORTUGAL.
 
 
-![46](./img/page_46-01.jpg)
+![46](./img/page_46-01.jpg)
 
 ---
 
 [Página 47]
 
-![47](./img/page_47-01.jpg)
+![47](./img/page_47-01.jpg)
 
 ---
 
@@ -430,7 +395,7 @@ ESTA OBRA FOI COMPOSTA EM CALIBRI
 E IMPRESSA SOBRE PAPEL CUCHÊ FOSCO 115 G/M²
 PARA A MAIS E MELHORES EM 2024.
 
-![48](./img/page_48-01.jpg)
+![48](./img/page_48-01.jpg)
 
 ---
 

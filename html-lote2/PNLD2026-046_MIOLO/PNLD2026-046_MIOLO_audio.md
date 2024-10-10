@@ -1,67 +1,41 @@
 [Página 1]
-Escrito & Ilustrado
+Cadê as cores que estavam aqui?
+
+Escrito & Ilustrado por
 Cecilia Saro
 
-![1](./img/page_1-01.jpg)
+![1](./img/page_0001.jpg)
 
 ---
 
 [Página 2]
-Copyright da edição © Edlab, 2024
-direitos cedidos à araucária edições
-Copyright do texto e das ilustrações © Cecillia Saro
-Edição
-Produção editorial Andressa Cerqueira
-
-tem que fazer um
-novo para este livro
-Dados Internacionais de Catalogação na Publicação (CIP)
-(Câmara Brasileira do Livro, SP, Brasil)
-Leite, Luciana
-Fogo no Pantanal : a deusa da chuva está
-machucada / Luciana Leite ; ilustração Cecília
-Saro. -- 2. ed. -- São Paulo : Ed. da Autora,
-2023. -- (Vozes do Pantanal)
-ISBN 978-65-00-87303-0
-1. Animais - Literatura infantojuvenil 2. Meio
-ambiente - Conservação 3. Onça-pintada - Literatura
-infantojuvenil 4. Pantanal Mato-grossense (MT e MS) Literatura infantojuven I. Saro, Cecília. II. Título.
-III. Série.
-
-23-182452
-
-CDD-028.5
-Índices para catálogo sistemático:
-
-1. Literatura infantil
-028.5
-2. Literatura infantojuvenil
-028.5
-Tábata Alves da Silva - Bibliotecária - CRB-8/9253
-
-![2](./img/page_2-01.jpg)
+![2](./img/page_0002.jpg)
 
 ---
 
 [Página 3]
-a todos,
+A todos,
 meu alerta e pedido para
 conservarmos todas a cores
 vivas ao nosso redor.
 
-![3](./img/page_3-01.jpg)
+![3](./img/page_0003.jpg)
 
 ---
 
 [Página 4]
 
-![4](./img/page_4-01.jpg)
+TUDO TEM COR NA NATUREZA
+
+![4](./img/page_0004.jpg)
 
 ---
 
 [Página 5]
 
-![5](./img/page_5-01.jpg)
+E AS CORES ESPANTAM NOSSA TRISTEZA.
+
+![5](./img/page_0005.jpg)
 
 ---
 
@@ -69,13 +43,13 @@ vivas ao nosso redor.
 A planta, o sapo e o sapato.
 
 
-![6](./img/page_6-01.jpg)
+![6](./img/page_0006.jpg)
 
 ---
 
 [Página 7]
 
-![7](./img/page_7-01.jpg)
+![7](./img/page_0007.jpg)
 
 ---
 
@@ -83,13 +57,13 @@ A planta, o sapo e o sapato.
 O sol, a onça e a coroa.
 
 
-![8](./img/page_8-01.jpg)
+![8](./img/page_0008.jpg)
 
 ---
 
 [Página 9]
 
-![9](./img/page_9-01.jpg)
+![9](./img/page_0009.jpg)
 
 ---
 
@@ -97,13 +71,13 @@ O sol, a onça e a coroa.
 O mar, a baleia e a chaleira.
 
 
-![10](./img/page_10-01.jpg)
+![10](./img/page_0010.jpg)
 
 ---
 
 [Página 11]
 
-![11](./img/page_11-01.jpg)
+![11](./img/page_0011.jpg)
 
 ---
 
@@ -111,13 +85,13 @@ O mar, a baleia e a chaleira.
 A a terra, o tamanduá e o sofá.
 
 
-![12](./img/page_12-01.jpg)
+![12](./img/page_0012.jpg)
 
 ---
 
 [Página 13]
 
-![13](./img/page_13-01.jpg)
+![13](./img/page_0013.jpg)
 
 ---
 
@@ -125,13 +99,13 @@ A a terra, o tamanduá e o sofá.
 O coração, a cobra e o balão.
 
 
-![14](./img/page_14-01.jpg)
+![14](./img/page_0014.jpg)
 
 ---
 
 [Página 15]
 
-![15](./img/page_15-01.jpg)
+![15](./img/page_0015.jpg)
 
 ---
 
@@ -140,7 +114,7 @@ Elas estão em tudo! Elas trazem
 diversidade e inspiração
 
 
-![16](./img/page_16-01.jpg)
+![16](./img/page_0016.jpg)
 
 ---
 
@@ -149,7 +123,7 @@ para a nossa vida e a
 nossa criaçÃo.
 
 
-![17](./img/page_17-01.jpg)
+![17](./img/page_0017.jpg)
 
 ---
 
@@ -159,7 +133,7 @@ cor, nossos livros, nossas roupas
 são coloridos.
 
 
-![18](./img/page_18-01.jpg)
+![18](./img/page_0018.jpg)
 
 ---
 
@@ -168,7 +142,7 @@ E assim, nossos dias ficam muito
 mais divertidos!
 
 
-![19](./img/page_19-01.jpg)
+![19](./img/page_0019.jpg)
 
 ---
 
@@ -177,7 +151,7 @@ Além disso tudo, as cores fazem
 bem aos nossos olhos,
 
 
-![20](./img/page_20-01.jpg)
+![20](./img/page_0020.jpg)
 
 ---
 
@@ -187,7 +161,7 @@ e conservam eternamente
 nossa juventude.
 
 
-![21](./img/page_21-01.jpg)
+![21](./img/page_0021.jpg)
 
 ---
 
@@ -198,13 +172,13 @@ A crise climática chegou,
 e ela não POUPA ninguém!
 
 
-![22](./img/page_22-01.jpg)
+![22](./img/page_0022.jpg)
 
 ---
 
 [Página 23]
 
-![23](./img/page_23-01.jpg)
+![23](./img/page_0023.jpg)
 
 ---
 
@@ -213,7 +187,7 @@ Nós, humanos, temos mudado
 a natureza ao nosso redor,
 
 
-![24](./img/page_24-01.jpg)
+![24](./img/page_0024.jpg)
 
 ---
 
@@ -222,7 +196,7 @@ Ela está cada vez mais triste,
 cinza e só.
 
 
-![25](./img/page_25-01.jpg)
+![25](./img/page_0025.jpg)
 
 ---
 
@@ -231,7 +205,7 @@ Estamos derrubando a mata onde
 moram nossos animais.
 
 
-![26](./img/page_26-01.jpg)
+![26](./img/page_0026.jpg)
 
 ---
 
@@ -240,7 +214,7 @@ Quando eles se vão, perdemos seu
 canto, suas cores e a nossa paz.
 
 
-![27](./img/page_27-01.jpg)
+![27](./img/page_0027.jpg)
 
 ---
 
@@ -249,7 +223,7 @@ O fogo também tem mudado
 nossa paisagem,
 
 
-![28](./img/page_28-01.jpg)
+![28](./img/page_0028.jpg)
 
 ---
 
@@ -258,7 +232,7 @@ Depois que ele passa o verde fica
 cinza, deixando tudo sem vida.
 
 
-![29](./img/page_29-01.jpg)
+![29](./img/page_0029.jpg)
 
 ---
 
@@ -267,7 +241,7 @@ As borboletas também mudam,
 assim como Pássaros e flores
 
 
-![30](./img/page_30-01.jpg)
+![30](./img/page_0030.jpg)
 
 ---
 
@@ -276,7 +250,7 @@ que ao perderem sua casa e sua vida,
 acabam perdendo suas cores.
 
 
-![31](./img/page_31-01.jpg)
+![31](./img/page_0031.jpg)
 
 ---
 
@@ -285,7 +259,7 @@ NO fundo do mar também acontece
 igual, a Pesca, a poluição e o calor
 
 
-![32](./img/page_32-01.jpg)
+![32](./img/page_0032.jpg)
 
 ---
 
@@ -294,7 +268,7 @@ têm mexido com a qualidade de
 vida de cada alga e cada animal.
 
 
-![33](./img/page_33-01.jpg)
+![33](./img/page_0033.jpg)
 
 ---
 
@@ -303,7 +277,7 @@ Muitos animais já não vivem lá
 e os corais seres tão importantes,
 
 
-![34](./img/page_34-01.jpg)
+![34](./img/page_0034.jpg)
 
 ---
 
@@ -312,19 +286,23 @@ também têm perdido suas cores num
 movimento incessante.
 
 
-![35](./img/page_35-01.jpg)
+![35](./img/page_0035.jpg)
 
 ---
 
 [Página 36]
 
-![36](./img/page_36-01.jpg)
+E A CADA DIA QUE PASSA, 
+
+![36](./img/page_0036.jpg)
 
 ---
 
 [Página 37]
 
-![37](./img/page_37-01.jpg)
+NOSSOS DIAS TÊM PERDIDO AS CORES...
+
+![37](./img/page_0037.jpg)
 
 ---
 
@@ -333,7 +311,7 @@ Mas não é só a natureza que padece
 com isso, ninguém consegue
 
 
-![38](./img/page_38-01.jpg)
+![38](./img/page_0038.jpg)
 
 ---
 
@@ -342,7 +320,7 @@ viver bem em um mundo sem cor e
 sem vida, cada vez mais vazio.
 
 
-![39](./img/page_39-01.jpg)
+![39](./img/page_0039.jpg)
 
 ---
 
@@ -351,13 +329,13 @@ Precisamos lembrar que a natureza
 é também o nosso lar.
 
 
-![40](./img/page_40-01.jpg)
+![40](./img/page_0040.jpg)
 
 ---
 
 [Página 41]
 
-![41](./img/page_41-01.jpg)
+![41](./img/page_0041.jpg)
 
 ---
 
@@ -366,7 +344,7 @@ as árvores são muito importantes,
 cortá-las é um erro constante.
 
 
-![42](./img/page_42-01.jpg)
+![42](./img/page_0042.jpg)
 
 ---
 
@@ -375,7 +353,7 @@ Não vamos deixar a cor da
 esperança desbotar!
 
 
-![43](./img/page_43-01.jpg)
+![43](./img/page_0043.jpg)
 
 ---
 
@@ -384,7 +362,7 @@ Vamos ensinar à todos que lugar do
 lixo não é no mar,
 
 
-![44](./img/page_44-01.jpg)
+![44](./img/page_0044.jpg)
 
 ---
 
@@ -393,7 +371,7 @@ que é proibido caçar nossos animais
 e colocar fogo em nossos pantanais
 
 
-![45](./img/page_45-01.jpg)
+![45](./img/page_0045.jpg)
 
 ---
 
@@ -403,7 +381,7 @@ garantindo um mundo de vida e
 menos tristeza.
 
 
-![46](./img/page_46-01.jpg)
+![46](./img/page_0046.jpg)
 
 ---
 
@@ -412,7 +390,7 @@ e muito mais colorido,
 com absoluta certeza!
 
 
-![47](./img/page_47-01.jpg)
+![47](./img/page_0047.jpg)
 
 ---
 
@@ -433,7 +411,7 @@ era ontem, de como está hoje e como pode ser amanhã, e com
 leveza e encantamento espera que aceitemos o seu convite
 por Barbara Ganizev Jimenez.
 
-![48](./img/page_48-01.jpg)
+![48](./img/page_0048.jpg)
 
 ---
 
