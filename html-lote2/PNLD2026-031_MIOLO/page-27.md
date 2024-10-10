@@ -1,0 +1,6 @@
+[Página 27]
+O BRACINHO CURTO NÃO ALCANÇOU A TELA...
+SUJOU SUA ROUPINHA DE AQUARELA...
+
+
+![27](./img/page_27-01.jpg)

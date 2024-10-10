@@ -1,0 +1,436 @@
+[Página 1]
+![1](./img/page_1-01.jpg)
+
+---
+
+[Página 2]
+Copyright do texto e das ilustrações © 2024 Jarbas Domingos
+Direção e curadoria
+Gestão editorial
+Diagramação
+Revisão
+
+Fábia Alvim
+Felipe Augusto Neves Silva
+Luisa Marcelino
+Dênis Lacerta
+
+Dados Internacionais de Catalogação na Publicação (CIP) de acordo com ISBD
+K19c
+
+Kasburg, Denise
+
+		
+		
+		
+
+Crescer / Denise Kasburg ; ilustrado por Liine Nacarate. São Paulo : Saíra Editorial, 2024.
+32 p. : il. ; 24cm x 24cm.
+
+		ISBN: 978-65-81295-80-6
+1. Literatura infantil. I. Nacarate, Liine. II. Título.
+CDD 028.5
+CDU 82-93
+
+2024-2939
+Elaborado por Vagner Rodolfo da Silva - CRB-8/9410
+Índice para catálogo sistemático:
+1. Literatura infantil 028.5
+2. Literatura infantil 82-93
+Todos os direitos reservados à Mais e Melhores
+instagram.com/acorde_editorial
+Rua Sá Viana, 136, 30
+20540-260 – Rio de Janeiro, RJ
+
+![2](./img/page_2-01.jpg)
+
+---
+
+[Página 3]
+DEDICO ESTE LIVRO A VOCÊ QUE TEM LIMITE.
+QUE ÀS VEZES ATÉ DESISTE,
+MAS QUERENDO SEGUIR EM FRENTE.
+ESTE LIVRO É PARA VOCÊ,
+QUE DOS OUTROS É DIFERENTE.
+DEDICO A TODO O MUNDO,
+POIS ASSIM É TODA GENTE.
+
+![3](./img/page_3-01.jpg)
+
+---
+
+[Página 4]
+NO BAIRRO JURÁSSICO, NA ESCOLA DO LAGO,
+TODO O MUNDO É FERA EM ALGO.
+
+
+![4](./img/page_4-01.jpg)
+
+---
+
+[Página 5]
+A PEQUENA TIRANOSSAURO CHAMADA DINA
+SE DESPEDE DOS PAIS LÁ NA ESQUINA.
+
+
+![5](./img/page_5-01.jpg)
+
+---
+
+[Página 6]
+PASSOS LENTOS, “ACELERANDO ” O CORAÇÃO,
+DINA CAMINHA EM DIREÇÃO AO PORTÃO.
+
+
+![6](./img/page_6-01.jpg)
+
+---
+
+[Página 7]
+OLHA PARA A FRENTE E RESPIRA FUNDO.
+NÃO QUER SER DIFERENTE DE TODO O MUNDO.
+
+
+![7](./img/page_7-01.jpg)
+
+---
+
+[Página 8]
+NA ESCOLA, CAROLA É FERA EM JOGAR BOLA.
+– TENTA, DINA! VAI VER TAMBÉM É SUA SINA.
+DOU UM BICUDO E VOCÊ AGARRA COM TUDO.
+
+
+![8](./img/page_8-01.jpg)
+
+---
+
+[Página 9]
+
+![9](./img/page_9-01.jpg)
+
+---
+
+[Página 10]
+
+![10](./img/page_10-01.jpg)
+
+---
+
+[Página 11]
+
+![11](./img/page_11-01.jpg)
+
+---
+
+[Página 12]
+NA NATAÇÃO, BRONTOSSAULO É CAMPEÃO.
+– VEM, DINA! PULA NA PISCINA!
+SEM ALVOROÇO. A ÁGUA BATE NO PESCOÇO
+
+
+![12](./img/page_12-01.jpg)
+
+---
+
+[Página 13]
+
+![13](./img/page_13-01.jpg)
+
+---
+
+[Página 14]
+
+![14](./img/page_14-01.jpg)
+
+---
+
+[Página 15]
+
+![15](./img/page_15-01.jpg)
+
+---
+
+[Página 16]
+DINOEL É MUSICAL. MUITO FERA NO INSTRUMENTAL.
+– OI, DINA! QUER TENTAR? MEU VIOLÃO EU POSSO EMPRESTAR.
+SE EU POSSO, TU PODES. UMA MÃO NA CORDA, OUTRA NOS ACORDES.
+
+
+![16](./img/page_16-01.jpg)
+
+---
+
+[Página 17]
+
+![17](./img/page_17-01.jpg)
+
+---
+
+[Página 18]
+
+![18](./img/page_18-01.jpg)
+
+---
+
+[Página 19]
+
+![19](./img/page_19-01.jpg)
+
+---
+
+[Página 20]
+JÁ TRICERATRIZ GOSTA DE AGITAR.
+É FERA NA ARTE DE DANÇAR.
+
+
+![20](./img/page_20-01.jpg)
+
+---
+
+[Página 21]
+– BORA, DINA! VAMOS ARREBENTAR. FAZ IGUAL, TENTA IMITAR!
+DOU UM GIRO NO CHÃO E ME EQUILIBRO NUMA SÓ MÃO.
+
+
+![21](./img/page_21-01.jpg)
+
+---
+
+[Página 22]
+
+![22](./img/page_22-01.jpg)
+
+---
+
+[Página 23]
+
+![23](./img/page_23-01.jpg)
+
+---
+
+[Página 24]
+JUSSAURA COM TODA A TERNURA, INCENTIVOU A PINTURA.
+EXPLICOU, COM O PINCEL, CADA MOVIMENTO.
+DINA, SORRINDO, FINGIU ENTENDIMENTO.
+
+
+![24](./img/page_24-01.jpg)
+
+---
+
+[Página 25]
+
+![25](./img/page_25-01.jpg)
+
+---
+
+[Página 26]
+
+![26](./img/page_26-01.jpg)
+
+---
+
+[Página 27]
+O BRACINHO CURTO NÃO ALCANÇOU A TELA...
+SUJOU SUA ROUPINHA DE AQUARELA...
+
+
+![27](./img/page_27-01.jpg)
+
+---
+
+[Página 28]
+MAIS UM DIA FINDOU NA ESCOLA.
+CAROLA GUARDOU A BOLA NA SACOLA.
+BRONTOSSAULO, DE ROUPÃO, CORREU PARA A CONDUÇÃO.
+DINOEL, COM O VIOLÃO, CANTAROLOU UMA CANÇÃO.
+
+
+![28](./img/page_28-01.jpg)
+
+---
+
+[Página 29]
+TRICERATRIZ SAIU GIRANDO E PULANDO TODA FELIZ.
+JUSSAURA, COM SUA TELA, SE DESPEDIU PELA JANELA.
+DINA SEUS PAIS ESPERA, SEM SABER NO QUE É FERA...
+
+
+![29](./img/page_29-01.jpg)
+
+---
+
+[Página 30]
+A TERRA GIROU PARA O OUTRO LADO
+E MAIS UM DIA COMEÇA NA ESCOLA DO LAGO.
+DINA CHEGA ACENANDO COM SEU DOCE TCHAU MIÚDO.
+MAS A DIFERENÇA NAQUELE DIA ESTAVA EM TUDO.
+
+
+![30](./img/page_30-01.jpg)
+
+---
+
+[Página 31]
+TODOS DIZEM “BOM DIA” – MAS COM PREOCUPAÇÃO.
+NINGUÉM ABRIU A ESCOLA. ESTÁ FECHADO O PORTÃO.
+CAIU NO BUEIRO A CHAVE, UMA PEQUENA BRECHA NO CHÃO.
+
+
+![31](./img/page_31-01.jpg)
+
+---
+
+[Página 32]
+CAROLA USOU VARETA E COLA, MAS FRACASSOU.
+BRONTOSSAULO, POR CAUSA DE UM CALO, SUA VEZ PASSOU.
+
+
+![32](./img/page_32-01.jpg)
+
+---
+
+[Página 33]
+DINOEL USOU UM CANUDO DE PAPEL, QUE SE MOLHOU.
+JUSSAURA, SEM UMA IDEIA CLARA, NÃO ARRISCOU.
+TRICERATRIZ, SEMPRE MUITO FELIZ, NÃO SE IMPORTOU.
+
+
+![33](./img/page_33-01.jpg)
+
+---
+
+[Página 34]
+FOI QUANDO DINA FALOU:
+– POSSO TENTAR? MINHAS MÃOS PEQUENAS CONSEGUEM ENTRAR.
+COM MUITA CONCENTRAÇÃO, DEITOU NO CHÃO...
+RAPIDINHO LEVANTOU, COM A CHAVE NA MÃO.
+
+
+![34](./img/page_34-01.jpg)
+
+---
+
+[Página 35]
+TODA CONQUISTA ALEGRIA GERA.
+NUMA SÓ VOZ GRITAVAM:
+
+DINA É FERA!
+
+E FOI AÍ QUE ELA PERCEBEU ENTÃO
+QUE NAQUELA ESCOLA NÃO ERA EXCEÇÃO!
+
+
+![35](./img/page_35-01.jpg)
+
+---
+
+[Página 36]
+NO FUTEBOL, DINA APRENDEU A CABECEAR.
+
+
+![36](./img/page_36-01.jpg)
+
+---
+
+[Página 37]
+BATENDO PERNINHAS, CONSEGUIU NADAR.
+
+
+![37](./img/page_37-01.jpg)
+
+---
+
+[Página 38]
+MUITAS MÚSICAS APRENDEU A CANTAR.
+
+
+![38](./img/page_38-01.jpg)
+
+---
+
+[Página 39]
+NUM TIPO DE DANÇA, APRENDEU A SAPATEAR.
+
+
+![39](./img/page_39-01.jpg)
+
+---
+
+[Página 40]
+COM O PINCEL NA BOCA, SOUBE SUA ARTE EXPRESSAR.
+
+
+![40](./img/page_40-01.jpg)
+
+---
+
+[Página 41]
+MAS FOI EM NÃO DESISTIR E SEMPRE TENTAR
+QUE DINA SE TORNOU REALMENTE FERA!
+
+
+![41](./img/page_41-01.jpg)
+
+---
+
+[Página 42]
+DINA APRENDEU QUE TODO O MUNDO TEM LIMITE.
+
+
+![42](./img/page_42-01.jpg)
+
+---
+
+[Página 43]
+SE, DE UM JEITO NÃO DÁ, OUTRO JEITO EXISTE.
+
+
+![43](./img/page_43-01.jpg)
+
+---
+
+[Página 44]
+
+![44](./img/page_44-01.jpg)
+
+---
+
+[Página 45]
+
+![45](./img/page_45-01.jpg)
+
+---
+
+[Página 46]
+Jarbas Domingos
+www.jarbasdomingos.com
+É PAI, CARTUNISTA, ILUSTRADOR, DESIGNER, AUTOR
+DE HISTÓRIAS INFANTIS E QUADRINHOS.
+TRABALHA COMO ARTISTA GRÁFICO DESDE 1998.
+TRABALHOU NA IMPRENSA POR MAIS DE 20 ANOS.  
+SEUS TRABALHOS FORAM PREMIADOS EM SALÕES
+NACIONAIS E INTERNACIONAIS, COMO O WORLD
+PRESS CARTOON, DE PORTUGAL.
+
+
+![46](./img/page_46-01.jpg)
+
+---
+
+[Página 47]
+
+![47](./img/page_47-01.jpg)
+
+---
+
+[Página 48]
+ESTA OBRA FOI COMPOSTA EM CALIBRI
+E IMPRESSA SOBRE PAPEL CUCHÊ FOSCO 115 G/M²
+PARA A MAIS E MELHORES EM 2024.
+
+![48](./img/page_48-01.jpg)
+
+---
+
