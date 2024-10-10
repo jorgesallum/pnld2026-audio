@@ -1,4 +1,4 @@
-Audio (wav)
+Audio (mp3)
 -----
 
 - [x] PNLD2026-001_MIOLO

@@ -4,50 +4,20 @@ GOSTO DE
 TODAS
 AS CORES
 
-Fê Furtado
+De
+Fê Furtado e
 Vera Ceccarello
 
-ilustrações
+Com ilustrações de
 Adriana Dutra
 
-![1](./img/page_1-01.jpg)
+![1](./img/page_1-01.jpg)
 
 ---
 
 [Página 2]
-©2023 Fê Furtado, Vera Ceccarello
-©2024 Produção Editorial Lamparina
-Este livro segue as normas do Acordo Ortográfico da Língua
-Portuguesa de 1990, em vigor no Brasil desde 2009.
-Coordenação editorial
 
-Patricia Capella
-Tatiana Kely
-
-Ilustrações e projeto gráfico
-
-Adriana Dutra
-
-Diagramação
-
-Daniel Furtado
-
-CIP-BRASIL. CATALOGAÇÃO NA PUBLICAÇÃO
-SINDICATO NACIONAL DOS EDITORES DE LIVROS, RJ
-F987g
-2. ed.
-Furtado, Fê
-Gosto de todas as cores / Fê Furtado, Vera Ceccarello; ilustração Adriana Dutra.
-- 2. ed. - Rio de Janeiro : Lamparina, 2024.
-32 p. ; 28 cm.
-ISBN 978-65-88791-31-8
-1. Ficção. 2. Literatura infantojuvenil brasileira. I. Ceccarello,
-Vera. II. Dutra, Adriana. III. Título.
-24-94194			CDD: 808.899282
-				CDU: 82-93(81)
-Gabriela Faray Ferreira Lopes - Bibliotecária - CRB-7/6643
-
-![2](./img/page_2-01.jpg)
+![2](./img/page_2-01.jpg)
 
 ---
 
@@ -58,7 +28,7 @@ QUE DANI INSPIRE CRIANÇAS DE TODAS AS
 IDADES A SENTIR O GOSTO DE SER QUEM SE
 DESEJAR SER.
 
-![3](./img/page_3-01.jpg)
+![3](./img/page_3-01.jpg)
 
 ---
 
@@ -72,12 +42,12 @@ AS BRINCADEIRAS SÃO
 A MELHOR PARTE DO DIA.
 COM ELAS, TRANSBORDO ALEGRIA.
 
-![4](./img/page_4-01.jpg)
+![4](./img/page_4-01.jpg)
 
 ---
 
 [Página 5]
-![5](./img/page_5-01.jpg)
+![5](./img/page_5-01.jpg)
 
 ---
 
@@ -87,17 +57,17 @@ AQUI POSSO PINTAR
 DA ESTRELA MAIS ALTA
 AO AZUL MAIS PROFUNDO!
 
-![6](./img/page_6-01.jpg)
+![6](./img/page_6-01.jpg)
 
 ---
 
 [Página 7]
-![7](./img/page_7-01.jpg)
+![7](./img/page_7-01.jpg)
 
 ---
 
 [Página 8]
-![8](./img/page_8-01.jpg)
+![8](./img/page_8-01.jpg)
 
 ---
 
@@ -107,7 +77,7 @@ MAS O FURTA-COR ME ENCHE DE AMORES:
 PARECE UM CAMALEÃO
 COM UM ARCO-ÍRIS NO CORAÇÃO.
 
-![9](./img/page_9-01.jpg)
+![9](./img/page_9-01.jpg)
 
 ---
 
@@ -117,7 +87,7 @@ BRINCAR! CASINHA, HERÓI, BOLA, BONECA, AVIÃO.
 FANTASIAR NÃO É INCRÍVEL?
 É QUE TODO FAZ DE CONTA CABE NA IMAGINAÇÃO.
 
-![10](./img/page_10-01.jpg)
+![10](./img/page_10-01.jpg)
 
 ---
 
@@ -128,7 +98,7 @@ O QUE ME DÁ MAIS EUFORIA?
 
 TRANSFORMAR TUDO EM BRINQUEDOS.
 
-![11](./img/page_11-01.jpg)
+![11](./img/page_11-01.jpg)
 
 ---
 
@@ -138,12 +108,12 @@ COM MINHA CAPA ESPECIAL,
 VIRO HÉLICE NUM GIRO
 E ME SINTO SENSACIONAL!
 
-![12](./img/page_12-01.jpg)
+![12](./img/page_12-01.jpg)
 
 ---
 
 [Página 13]
-![13](./img/page_13-01.jpg)
+![13](./img/page_13-01.jpg)
 
 ---
 
@@ -151,7 +121,7 @@ E ME SINTO SENSACIONAL!
 ADORO SERVIR XÍCARAS DE CHÁ,
 CONVIDO TODO MUNDO A SE DELICIAR.
 
-![14](./img/page_14-01.jpg)
+![14](./img/page_14-01.jpg)
 
 ---
 
@@ -159,12 +129,12 @@ CONVIDO TODO MUNDO A SE DELICIAR.
 OS BICHOS DE PELÚCIA COMPARECEM
 E, JUNTO COMIGO, SE DIVERTEM!
 
-![15](./img/page_15-01.jpg)
+![15](./img/page_15-01.jpg)
 
 ---
 
 [Página 16]
-![16](./img/page_16-01.jpg)
+![16](./img/page_16-01.jpg)
 
 ---
 
@@ -178,12 +148,12 @@ DE SEGUIR INSTRUÇÃO:
 GOSTO MESMO
 É DE INVENTAR.
 
-![17](./img/page_17-01.jpg)
+![17](./img/page_17-01.jpg)
 
 ---
 
 [Página 18]
-![18](./img/page_18-01.jpg)
+![18](./img/page_18-01.jpg)
 
 ---
 
@@ -193,12 +163,12 @@ E ISSO CHEGA A ME MAGOAR.
 PAREÇO ATÉ UM ENIGMA DO EGITO.
 NUNCA CONSIGO ME ENCAIXAR.
 
-![19](./img/page_19-01.jpg)
+![19](./img/page_19-01.jpg)
 
 ---
 
 [Página 20]
-![20](./img/page_20-01.jpg)
+![20](./img/page_20-01.jpg)
 
 ---
 
@@ -214,12 +184,12 @@ ISSO OU AQUILO
 NÃO É A ÚNICA VERDADE.
 LEGAL MESMO É ESCOLHER COM LIBERDADE!
 
-![21](./img/page_21-01.jpg)
+![21](./img/page_21-01.jpg)
 
 ---
 
 [Página 22]
-![22](./img/page_22-01.jpg)
+![22](./img/page_22-01.jpg)
 
 ---
 
@@ -229,7 +199,7 @@ ASSIM EU ME SINTO FELIZ:
 SIGO FEITO UM SOL QUE RAIOU
 E DANÇO COMO UM CHAFARIZ.
 
-![23](./img/page_23-01.jpg)
+![23](./img/page_23-01.jpg)
 
 ---
 
@@ -238,7 +208,7 @@ NA RUA, PULANDO CARNAVAL,
 SOU TUBARÃO
 COM RABO DE SEREIA PRATA.
 
-![24](./img/page_24-01.jpg)
+![24](./img/page_24-01.jpg)
 
 ---
 
@@ -248,7 +218,7 @@ PARA SER AINDA MAIS FENOMENAL:
 VIRO UNICÓRNIO
 COM CHAPÉU DE PIRATA.
 
-![25](./img/page_25-01.jpg)
+![25](./img/page_25-01.jpg)
 
 ---
 
@@ -258,7 +228,7 @@ PROCURO DESENHOS DE NUVEM, LÁ EM CIMA.
 ENTÃO, UMA GRANDE EMOÇÃO ME INVADE.
 JÁ VI ATÉ DINOSSAURO PINTANDO OBRA-PRIMA.
 
-![26](./img/page_26-01.jpg)
+![26](./img/page_26-01.jpg)
 
 ---
 
@@ -268,7 +238,7 @@ E VIRO AZUL-CELESTE CELESTIAL.
 DE NOITE, VEM O BREU,
 FORMANDO UM PONTILHADO ESPACIAL.
 
-![27](./img/page_27-01.jpg)
+![27](./img/page_27-01.jpg)
 
 ---
 
@@ -280,12 +250,12 @@ CADA UM TEM O SEU VALOR.
 
 TENHO EM MIM TODAS AS CORES DO MUNDO.
 
-![28](./img/page_28-01.jpg)
+![28](./img/page_28-01.jpg)
 
 ---
 
 [Página 29]
-![29](./img/page_29-01.jpg)
+![29](./img/page_29-01.jpg)
 
 ---
 
@@ -313,7 +283,7 @@ sou tia de quatro lindas crianças e gosto de brincar de inventar novos mundos a
 Por meio da literatura me conecto com outras maneiras de ver as coisas e, brincando com as
 palavras, posso criar novas formas de me entender e de entender o mundo.
 
-![30](./img/page_30-01.jpg)
+![30](./img/page_30-01.jpg)
 
 ---
 
@@ -331,7 +301,7 @@ toda a delicadeza dessa infância em mim. A relação da mistura da água com a 
 é fascinante; é como se dançassem sobre o papel, num ritmo e forma livres, assim
 como deve ser a brincadeira: livre.
 
-![31](./img/page_31-01.jpg)
+![31](./img/page_31-01.jpg)
 
 ---
 
@@ -341,7 +311,7 @@ em Pangolin em
 setembro de 2024 para
 a editora Lamparina.
 
-![32](./img/page_32-01.jpg)
+![32](./img/page_32-01.jpg)
 
 ---
 

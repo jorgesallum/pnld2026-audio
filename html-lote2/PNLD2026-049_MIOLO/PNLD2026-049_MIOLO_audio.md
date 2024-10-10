@@ -1,52 +1,21 @@
 [Página 1]
-![1](./img/page_1-01.jpg)
+![1](./img/page_1-01.jpg)
 
 ---
 
 [Página 2]
-CIP-Brasil. Catalogação na Publicação
-Sindicato Nacional dos Editores de Livros, RJ
-C616r
-Coelho, Isabel Lopes
-A representação da criança na literatura infantojuvenil : Rémi, Pinóquio e Peter Pan / Isabel Lopes Coelho ; [prefácio João Luís Ceccantini].
-- 1. ed. - São Paulo : Perspectiva, 2020.
-208 p. ; 23 cm. (Estudos ; 375)
-Inclui bibliografia
-ISBN 978-65-5505-038-7
-1. Literatura - História e crítica. 2. Literatura infantil - Brasil. 3. Estruturalismo (Análise literária). I. Ceccantini, João Luís. II. Título. III. Série.
-20-66945		
-			
 
-CDD: 809
-CDU: 82.09
-
-Camila Donis Hartmann - Bibliotecária - CRB-7/6472
-07/10/2020
-09/10/2020
-
-Preparação Luiz Henrique Soares
-Revisão Sergio Kon e Luiz Henrique Soares
-Produção Ricardo W. Neves e Sergio Kon.
-
-1a edição
-Direitos reservados a
-A MÁQUINA DE IDEIAS DESIGN GRÁFICO E DE OBJETOS SS LTDA.
-Rua Padre João Manuel, 758/51
-01411‑000 São Paulo SP Brasil
-Tel.: (55 11) 3885‑8388
-
-![2](./img/page_2-01.jpg)
+![2](./img/page_2-01.jpg)
 
 ---
 
 [Página 3]
 PRAZER,
-
 AMAZÔNIA
-MARINA HIROTA E
-CLAUDIA TIETSCHE
 
-![3](./img/page_3-01.jpg)
+De MARINA HIROTA E CLAUDIA TIETSCHE
+
+![3](./img/page_3-01.jpg)
 
 ---
 
@@ -54,17 +23,15 @@ CLAUDIA TIETSCHE
 PRAZER,
 
 
-![4](./img/page_4-01.jpg)
+![4](./img/page_4-01.jpg)
 
 ---
 
 [Página 5]
-MEU NOME É
-
-				AMAZÔNIA!
+MEU NOME É AMAZÔNIA!
 
 
-![5](./img/page_5-01.jpg)
+![5](./img/page_5-01.jpg)
 
 ---
 
@@ -73,7 +40,7 @@ SOU UMA FLORESTA
 BELA E DIVERSA:
 
 
-![6](./img/page_6-01.jpg)
+![6](./img/page_6-01.jpg)
 
 ---
 
@@ -85,7 +52,7 @@ E FLORES…
 SÃO TANTAS FORMAS, SONS E CORES!
 
 
-![7](./img/page_7-01.jpg)
+![7](./img/page_7-01.jpg)
 
 ---
 
@@ -93,34 +60,15 @@ SÃO TANTAS FORMAS, SONS E CORES!
 TUDO FUNCIONANDO EM CONJUNTO,
 
 
-![8](./img/page_8-01.jpg)
+![8](./img/page_8-01.jpg)
 
 ---
 
 [Página 9]
-R A L Q UE S
-
-EM
-M
-
-TU
-
-A!
-Ç
-E
-
-A
-
-PRE RECO
-
-N
-
-UM
-
-CICLO N
+NUM CICLO NATURAL QUE SEMPRE RECOMEÇA!
 
 
-![9](./img/page_9-01.jpg)
+![9](./img/page_9-01.jpg)
 
 ---
 
@@ -130,7 +78,7 @@ A ÁGUA
 EM ABUNDÂNCIA ME BANHA!
 
 
-![10](./img/page_10-01.jpg)
+![10](./img/page_10-01.jpg)
 
 ---
 
@@ -140,7 +88,7 @@ E LAGOS, SOBEM AOS CÉUS COM
 O CALOR DO SOL.
 
 
-![11](./img/page_11-01.jpg)
+![11](./img/page_11-01.jpg)
 
 ---
 
@@ -148,7 +96,7 @@ O CALOR DO SOL.
 JUNTAM-SE EM NUVENS,
 
 
-![12](./img/page_12-01.jpg)
+![12](./img/page_12-01.jpg)
 
 ---
 
@@ -156,18 +104,17 @@ JUNTAM-SE EM NUVENS,
 PARA LOGO DELAS PULAREM
 
 
-![13](./img/page_13-01.jpg)
+![13](./img/page_13-01.jpg)
 
 ---
 
 [Página 14]
 AO SOLO,
-ÀS PLANTAS,
-		
-AOS ANIMAIS,
+	ÀS PLANTAS,
+		AOS ANIMAIS,
 
 
-![14](./img/page_14-01.jpg)
+![14](./img/page_14-01.jpg)
 
 ---
 
@@ -175,7 +122,7 @@ AOS ANIMAIS,
 ATÉ RETORNAREM AOS SAGRADOS RIOS!
 
 
-![15](./img/page_15-01.jpg)
+![15](./img/page_15-01.jpg)
 
 ---
 
@@ -185,7 +132,7 @@ DE ÁGUA SUBINDO
 E DESCENDO,
 
 
-![16](./img/page_16-01.jpg)
+![16](./img/page_16-01.jpg)
 
 ---
 
@@ -197,7 +144,7 @@ ME ENCHEM DE SUPERPODERES PARA
 CUIDAR DO CLIMA!
 
 
-![17](./img/page_17-01.jpg)
+![17](./img/page_17-01.jpg)
 
 ---
 
@@ -205,7 +152,7 @@ CUIDAR DO CLIMA!
 MESMO SENDO UMA FLORESTA GIGANTE,
 
 
-![18](./img/page_18-01.jpg)
+![18](./img/page_18-01.jpg)
 
 ---
 
@@ -215,7 +162,7 @@ POSSÍVEL, DE TODO O LUGAR
 DO PLANETA.
 
 
-![19](./img/page_19-01.jpg)
+![19](./img/page_19-01.jpg)
 
 ---
 
@@ -223,7 +170,7 @@ DO PLANETA.
 COMO CRIANÇAS, VOCÊS SABEM SER NATUREZA!
 
 
-![20](./img/page_20-01.jpg)
+![20](./img/page_20-01.jpg)
 
 ---
 
@@ -232,7 +179,7 @@ SÃO CAPAZES DE SE PERDER
 NO MOVIMENTO DAS ASAS DE UMA BORBOLETA
 
 
-![21](./img/page_21-01.jpg)
+![21](./img/page_21-01.jpg)
 
 ---
 
@@ -241,7 +188,7 @@ DE SUBIR NO GALHO MAIS ALTO
 DE UMA ÁRVORE,
 
 
-![22](./img/page_22-01.jpg)
+![22](./img/page_22-01.jpg)
 
 ---
 
@@ -251,7 +198,7 @@ OU OLHAR MAIS DE PERTO
 UM NINHO DE PASSARINHO...
 
 
-![23](./img/page_23-01.jpg)
+![23](./img/page_23-01.jpg)
 
 ---
 
@@ -260,7 +207,7 @@ DE CONSIDERAR FLOR O AVESSO ROXO
 DE UMA FOLHA VERDE,
 
 
-![24](./img/page_24-01.jpg)
+![24](./img/page_24-01.jpg)
 
 ---
 
@@ -269,7 +216,7 @@ POIS NA PUREZA DO OLHAR
 DE VOCÊS, CORES SÃO FLORES!
 
 
-![25](./img/page_25-01.jpg)
+![25](./img/page_25-01.jpg)
 
 ---
 
@@ -278,7 +225,7 @@ MEU PEDIDO É QUE,
 MESMO QUANDO FICAREM GRANDES,
 
 
-![26](./img/page_26-01.jpg)
+![26](./img/page_26-01.jpg)
 
 ---
 
@@ -287,7 +234,7 @@ VOCÊS CONTINUEM SE SENTINDO
 PARTE DA NATUREZA!
 
 
-![27](./img/page_27-01.jpg)
+![27](./img/page_27-01.jpg)
 
 ---
 
@@ -297,7 +244,7 @@ DE OBSERVAR, CUIDAR, VALORIZAR
 E AMAR TODAS AS FLORESTAS,
 
 
-![28](./img/page_28-01.jpg)
+![28](./img/page_28-01.jpg)
 
 ---
 
@@ -306,13 +253,13 @@ COMO PARTE
 DE UMA GRANDE FAMÍLIA!
 
 
-![29](./img/page_29-01.jpg)
+![29](./img/page_29-01.jpg)
 
 ---
 
 [Página 30]
 
-![30](./img/page_30-01.jpg)
+![30](./img/page_30-01.jpg)
 
 ---
 
@@ -322,7 +269,7 @@ ABRAÇOS,
 AMAZÔNIA.
 
 
-![31](./img/page_31-01.jpg)
+![31](./img/page_31-01.jpg)
 
 ---
 
@@ -357,7 +304,7 @@ DE LIVROS INFANTOJUVENIS.
 CLAUDIA É MÃE DA JOANA E
 DA LAÍS.
 
-![32](./img/page_32-01.jpg)
+![32](./img/page_32-01.jpg)
 
 ---
 

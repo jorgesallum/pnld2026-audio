@@ -110,13 +110,13 @@ SI...
 ---
 
 [Página 13]
-TO
+TO...
 
-JU
+JU...
 
-BU
+BU...
 
-PU
+PU...
 
 ![13](./img/page_13-01.jpg)
 
@@ -163,73 +163,18 @@ PASSEIA PELA SALA.
 ---
 
 [Página 19]
-EDONHA,
-M
-Z
-O
-V
-RITA COM
-G
-A
-T
-R
-A
-U
-A
-AQ
-RE SI, E UM
-T
-N
-E
-O
-D
-AM CHIAN
-DUAS FIC
-E ME DÁ
-M
-I
-M
-E
-D
-GA PERTO
-E
-H
-C
-A
-D
-N
-AI
-PERNA.
-A
-N
-A
-H
-N
-I
-DID
-UMA MOR
+A QUARTA GRITA COM VOZ MEDONHA, 
+DUAS FICAM CHIANDO ENTRE SI, E UMA
+AINDA CHEGA PERTO DE MIM E ME DÁ
+UMA MORDIDINHA NA PERNA. 
+
 
 ![19](./img/page_19-01.jpg)
 
 ---
 
 [Página 20]
-EIXEI A
-D
-É
-T
-A
-E
-PULO
-M
-U
-I
-E
-D
-U
-E
-IR.
-XÍCARA CA
+EU DEI UM PULO E ATÉ DEIXEI A XÍCARA CAIR.
 
 ![20](./img/page_20-01.jpg)
 
@@ -272,15 +217,7 @@ MAS AS GATAS NÃO DÃO A MÍNIMA.
 ---
 
 [Página 25]
-A ELAS:
-R
-A
-P
-I
-E
-T
-I
-EU GR
+EU GRITEI PARA ELAS:
 
 – KIS-KIS-KIS!
 
@@ -448,8 +385,6 @@ PULA-PULA
 ---
 
 [Página 48]
-Editora Kalinka
-www. kalinka.com.br
 
 ![48](./img/page_48-01.jpg)
 
