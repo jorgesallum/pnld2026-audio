@@ -1,6 +1,0 @@
-[Página 20]
-JÁ TRICERATRIZ GOSTA DE AGITAR.
-É FERA NA ARTE DE DANÇAR.
-
-
-![20](./img/page_20-01.jpg)

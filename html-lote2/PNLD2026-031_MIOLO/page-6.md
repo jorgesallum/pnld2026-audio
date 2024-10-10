@@ -1,6 +1,0 @@
-[Página 6]
-PASSOS LENTOS, “ACELERANDO ” O CORAÇÃO,
-DINA CAMINHA EM DIREÇÃO AO PORTÃO.
-
-
-![6](./img/page_6-01.jpg)

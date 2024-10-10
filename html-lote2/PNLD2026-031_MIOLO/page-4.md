@@ -1,6 +1,0 @@
-[Página 4]
-NO BAIRRO JURÁSSICO, NA ESCOLA DO LAGO,
-TODO O MUNDO É FERA EM ALGO.
-
-
-![4](./img/page_4-01.jpg)

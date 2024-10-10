@@ -1,5 +1,0 @@
-[Página 25]
-NÃO DAVA PRA VIRAR A PÁGINA COM MAIS CUIDADO?
-QUASE AMASSA O LIVRO!
-
-![25](./img/page_25-01.jpg)

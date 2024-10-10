@@ -1,6 +1,0 @@
-[Página 7]
-OLHA PARA A FRENTE E RESPIRA FUNDO.
-NÃO QUER SER DIFERENTE DE TODO O MUNDO.
-
-
-![7](./img/page_7-01.jpg)

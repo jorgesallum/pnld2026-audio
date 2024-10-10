@@ -1,4 +1,0 @@
-[Página 21]
-VOU CHEGAR BEM PERTO PRA TE MOSTRAR UMA COISA .
-
-![21](./img/page_21-01.jpg)

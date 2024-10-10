@@ -1,11 +1,0 @@
-[Página 10]
-SE PERGUNTAR AO TONINHO
-ONDE É O NINHO DELE,
-VAI DIZER QUE É A CASA
-SEMPRE CHEIA DE CARINHO.
-
-miolo_os ninhos.indd 10
-
-04/10/2024 15:22:22
-
-![10](./img/page_10-01.jpg)
