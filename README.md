@@ -8,7 +8,7 @@ Controle de arquivos
 | PNLD Code    | Lote   | Status             |
 |:-------------|:-------|:-------------------|
 | PNLD2026-001 | Lote1  | Audio              |
-| PNLD2026-002 | Lote1  | Audio              |
+| PNLD2026-002 | Lote1  | Audio, Ilustrações |
 | PNLD2026-003 | Lote2  | Ilustrações        |
 | PNLD2026-004 | Lote2  | Audio, Ilustrações |
 | PNLD2026-005 | Lote2  | Audio, Ilustrações |
