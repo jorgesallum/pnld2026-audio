@@ -1,0 +1,427 @@
+[Página 1]
+![1](./img/page_1-01.jpg)
+
+
+O que é ciência?
+
+De Cassia dos Santos
+Com ilustrações de Pedro Junior
+
+
+
+
+---
+
+[Página 2]
+![2](./img/page_2-01.jpg)
+
+
+
+
+
+---
+
+[Página 3]
+![3](./img/page_3-01.jpg)
+
+A CIÊNCIA É UMA
+MANEIRA DE DESVENDAR
+OS MISTÉRIOS DO MUNDO
+AO NOSSO REDOR.
+
+
+
+
+---
+
+[Página 4]
+![4](./img/page_4-01.jpg)
+
+É COMO SE FÔSSEMOS
+DETETIVES, INVESTIGANDO
+COMO TUDO FUNCIONA! OS
+ANIMAIS, AS PLANTAS E NÓS
+MESMOS!
+
+
+
+
+
+
+---
+
+[Página 5]
+![5](./img/page_5-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 6]
+![6](./img/page_6-01.jpg)
+
+A CIÊNCIA NOS PERMITE VIAJAR PELO
+ESPAÇO PARA CONHECER OUTROS
+PLANETAS E ENTENDER OS SEGREDOS
+DO CÉU, COM SUAS ESTRELAS E
+CONSTELAÇÕES.
+
+
+
+
+
+
+---
+
+[Página 7]
+![7](./img/page_7-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 8]
+![8](./img/page_8-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 9]
+![9](./img/page_9-01.jpg)
+
+ELA NOS ENSINA SOBRE A ÁGUA QUE
+BEBEMOS, A LUZ QUE ILUMINA NOSSO
+DIA E A TERRA QUE PISAMOS.
+
+
+
+
+
+
+---
+
+[Página 10]
+![10](./img/page_10-01.jpg)
+
+A PARTIR DELA, TAMBÉM PODEMOS
+ENTENDER COMO AS PESSOAS SE
+RELACIONAM E SE COMUNICAM.
+
+
+
+
+
+
+---
+
+[Página 11]
+![11](./img/page_11-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 12]
+![12](./img/page_12-01.jpg)
+
+DESCOBRIMOS COMO A ÁGUA MUDA DE ESTADO, COMO
+A LUZ VIAJA PELO ESPAÇO E COMO A TERRA É FORMADA
+POR DIFERENTES TIPOS DE SOLO E DE ROCHAS.
+
+
+
+
+
+
+---
+
+[Página 13]
+![13](./img/page_13-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 14]
+![14](./img/page_14-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 15]
+![15](./img/page_15-01.jpg)
+
+A PARTIR DE EXPERIMENTOS
+DIVERTIDOS, PODEMOS FAZER
+VULCÕES EM MINIATURA, CRIAR
+UM ARCO-ÍRIS DENTRO DE CASA
+E ATÉ MESMO PLANTAR NOSSO
+PRÓPRIO JARDIM!
+
+
+
+
+
+
+---
+
+[Página 16]
+![16](./img/page_16-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 17]
+![17](./img/page_17-01.jpg)
+
+A PRIMEIRA COISA PARA SE FAZER
+CIÊNCIA É TER CURIOSIDADE,
+PERGUNTAR POR QUE AS COISAS SÃO
+COMO SÃO E IMAGINAR RESPOSTAS.
+
+
+
+
+
+
+---
+
+[Página 18]
+![18](./img/page_18-01.jpg)
+
+DEPOIS, FAZER EXPERIÊNCIAS
+PARA VER SE AS RESPOSTAS
+ESTAVAM CERTAS.
+
+
+
+
+
+
+---
+
+[Página 19]
+![19](./img/page_19-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 20]
+![20](./img/page_20-01.jpg)
+
+QUANDO AS RESPOSTAS ESTÃO CERTAS, ELAS
+LEVAM A DESCOBERTAS IMPORTANTES. E CADA
+DESCOBERTA GERA MAIS CURIOSIDADE...
+
+
+
+
+
+
+---
+
+[Página 21]
+![21](./img/page_21-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 22]
+![22](./img/page_22-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 23]
+![23](./img/page_23-01.jpg)
+
+ÀS VEZES A GENTE USA A CIÊNCIA
+PARA INVENTAR COISAS QUE TAMBÉM
+MELHORAM NOSSA VIDA.
+
+
+
+
+
+
+---
+
+[Página 24]
+![24](./img/page_24-01.jpg)
+
+ÀS VEZES A CIÊNCIA
+PODE SER USADA DE
+MANEIRA ERRADA E
+TRAZER RESULTADOS
+RUINS...
+
+
+
+
+
+
+---
+
+[Página 25]
+![25](./img/page_25-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 26]
+![26](./img/page_26-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 27]
+![27](./img/page_27-01.jpg)
+
+MAS É A PRÓPRIA CIÊNCIA QUE
+VAI NOS AJUDAR A ENCONTRAR AS
+SOLUÇÕES.
+
+
+
+
+
+---
+
+[Página 28]
+![28](./img/page_28-01.jpg)
+
+CABE A NÓS FAZER CIÊNCIA COM
+RESPONSABILIDADE!
+
+
+
+
+
+
+---
+
+[Página 29]
+![29](./img/page_29-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 30]
+![30](./img/page_30-01.jpg)
+
+
+
+
+
+
+---
+
+[Página 31]
+![31](./img/page_31-01.jpg)
+
+A CIÊNCIA É UMA AVENTURA CHEIA
+DE DESCOBERTAS!
+COM ELA, PODEMOS PROTEGER O NOSSO
+PLANETA E CONSTRUIR UM FUTURO
+MELHOR PARA TODOS.
+
+
+
+
+
+
+---
+
+[Página 32]
+![32](./img/page_32-01.jpg)
+
+CÁSSIA DOS SANTOS É CIENTISTA
+NEGRA BRASILEIRA E ESCREVE PARA
+TODOS OS PÚBLICOS. ELA INVESTIGA
+UMA OBRA MUITO IMPORTANTE
+CHAMADA GRANDE SERTÃO:
+VEREDAS, QUE TEM PALAVRAS
+CRIATIVAS DEMAIS, UM UNIVERSO
+MUITO CURIOSO E CHEIO DE MAGIA!
+É UMA OBRA ENORME, RICA EM
+AVENTURAS…
+QUANDO ERA CRIANÇA SONHAVA EM
+SER GENTE GRANDE, AGORA QUE É
+GENTE GRANDE SONHA EM PODER
+COMPARTILHAR SUAS PESQUISAS
+COM O MUNDO INTEIRINHO… OU
+APENAS UMA PARTE DELE. ALÉM DE
+SER CIENTISTA, É MÃE DE UM GATO
+MUITO FOFO E GRANDE, O FREDERICO.
+
+
+PEDRO JUNIOR É UM ILUSTRADOR
+NEGRO QUE ILUSTRA DIVERSOS
+SEGMENTOS HÁ MAIS DE DEZ ANOS.
+QUANDO CRIANÇA, SEMPRE
+DESENHOU E SE DIVERTIU CRIANDO
+PERSONAGENS , PINTANDO E USANDO
+SUA CRIATIVIDADE PARA ISSO.
+ELE NÃO SONHAVA QUE UM DIA
+PODERIA TORNAR ESSA DIVERSÃO EM
+PROFISSÃO.
+HOJE SONHA QUE SUAS ILUSTRAÇÕES
+CHEGUEM PARA MUITAS CRIANÇAS
+E QUE ELAS INSPIREM E FAÇAM
+IMAGINAR UM MUNDO MÁGICO
+CHEIO DE AVENTURAS.
+
+
+
+
+
+---
+
