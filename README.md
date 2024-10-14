@@ -53,5 +53,5 @@ Controle de arquivos
 | PNLD2026-050 | Lote2  |                    |
 
 
-
-
+# Renomear arquivos de imagem
+edlab-filemanager . -apv -pp="page" --tree --ignore-overwrites
